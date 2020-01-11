@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>neteas-cloud-music_analyze</id>
+    <version>1.0.0</version>
+    <authors>neteas-cloud-music_analyze</authors>
+    <owners>neteas-cloud-music_analyze</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="IronPython" version="2.7.9" exclude="Build,Analyzers" />
+        <dependency id="IronPython.StdLib" version="2.7.9" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignColors" version="1.2.1" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignThemes" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="ShowMeTheXAML" version="1.0.12" exclude="Build,Analyzers" />
+        <dependency id="ShowMeTheXAML.MSBuild" version="1.0.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Code_D\wpf_practice\neteas-cloud-music_analyze\neteas-cloud-music_analyze\bin\Debug\netcoreapp3.0\neteas-cloud-music_analyze.runtimeconfig.json" target="lib\netcoreapp3.0\neteas-cloud-music_analyze.runtimeconfig.json" />
+    <file src="D:\Code_D\wpf_practice\neteas-cloud-music_analyze\neteas-cloud-music_analyze\bin\Debug\netcoreapp3.0\neteas-cloud-music_analyze.dll" target="lib\netcoreapp3.0\neteas-cloud-music_analyze.dll" />
+  </files>
+</package>

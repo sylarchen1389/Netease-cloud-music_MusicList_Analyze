@@ -1,0 +1,3607 @@
+100
+rah
+100\Thunderstruck53
+life
+6\Skin O' My Teeth (Remastered)5\Master Of Puppets4\Piece By Piece4\Sad But True4\The Four Horsemen4\Madhouse4\Medusa3\Repentless3\Postmortem3\Angel Of Death2\Paranoid2\Paranoid2\Give Me Liberty... Or Give Me Death1\Crazy Train1\Skeletons Of Society1\Lightning Strike1\Trooper1\Slaughter Of The Soul1\Walk with Me In Hell1\Mirror Of Sins46
+death
+10\Angel Of Death8\Give Me Liberty... Or Give Me Death5\Postmortem5\Skeletons Of Society3\Piece By Piece2\The Four Horsemen2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls2\War Ensemble2\Blinded By Fear1\Trooper1\Master Of Puppets1\Strike of the Beast1\Raining Blood1\They Will Return41
+eyes
+9\Seasons In The Abyss8\Sad But True6\Medusa4\Dead Skin Mask3\Angel Of Death2\Slaughter Of The Soul1\Wasted Years1\Fear Of The Dark (1998 Digital Remaster)1\Firepower1\Strike of the Beast1\Back In Black1\The Threat Is Real1\Madhouse1\Skeletons Of Society1\Walk with Me In Hell40
+mind
+7\Seasons In The Abyss4\Angry Again3\Dead Skin Mask3\Postmortem3\Master Of Puppets2\Paranoid2\Dread And The Fugitive Mind2\Thunderstruck2\Sad But True2\Paranoid2\Fear Of The Dark (1998 Digital Remaster)1\Hooked1\Wasted Years1\Strike of the Beast1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Madhouse1\Angel Of Death1\Enter Sandman32
+die
+4\Angel Of Death4\Medusa3\The Four Horsemen3\Seasons In The Abyss3\Postmortem2\Tornado Of Souls2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Holy Wars...The Punishment Due1\Back In Black1\Enter Sandman1\War Is My Sheppard1\Strike of the Beast1\Firepower1\South Of Heaven1\Skeletons Of Society1\Repentless1\Master Of Puppets1\They Will Return32
+pain
+7\Sad But True6\Skin O' My Teeth (Remastered)4\War Is My Sheppard2\Angel Of Death2\Skeletons Of Society2\Blinded By Fear1\Trooper1\Wasted Years1\Run to the Hills1\Master Of Puppets1\That we should see the light1\Crazy Train1\Hooked1\Slaughter Of The Soul1\Cold32
+hey
+27\Ain't Talkin' 'Bout Love4\Sad But True1\Medusa32
+war
+14\War Is My Sheppard11\War Ensemble2\Fury Of The Storm1\Enter Sandman1\Crazy Train1\Holy Wars...The Punishment Due1\Repentless1\They Will Return31
+master
+28\Master Of Puppets2\Fury Of The Storm1\Holy Wars...The Punishment Due29
+time
+5\Wasted Years3\Fury Of The Storm3\Peace Sells2\The Four Horsemen2\Repentless2\War Ensemble1\Madhouse1\Seasons In The Abyss1\South Of Heaven1\Angel Of Death1\Raining Blood1\Ain't Talkin' 'Bout Love1\Dread And The Fugitive Mind1\Skin O' My Teeth (Remastered)1\Paranoid1\Thunderstruck1\Firepower1\Paranoid28
+dead
+8\Dead Skin Mask6\That we should see the light3\The Four Horsemen3\Angel Of Death2\War Ensemble1\Lightning Strike1\Give Me Liberty... Or Give Me Death1\Seasons In The Abyss1\Piece By Piece1\Cold1\Mirror Of Sins27
+again
+12\Angry Again3\WINGS OF JUSTICE2\Thunderstruck2\Slaughter Of The Soul2\They Will Return1\Fear Of The Dark (1998 Digital Remaster)1\That we should see the light1\Hooked1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Ain't Talkin' 'Bout Love27
+way
+6\Seek & Destroy3\Give Me Liberty... Or Give Me Death3\Madhouse3\Piece By Piece2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Peace Sells2\Tornado Of Souls1\Master Of Puppets1\Back In Black1\Hooked1\Holy Wars...The Punishment Due1\Dread And The Fugitive Mind1\WINGS OF JUSTICE25
+face
+11\Blinded By Fear4\Wasted Years4\WINGS OF JUSTICE2\Piece By Piece1\The Four Horsemen1\Lightning Strike1\Angry Again1\Angel Of Death25
+feel
+4\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)4\Tornado Of Souls3\Sad But True3\Madhouse2\Strike of the Beast2\Cold1\Trooper1\Fear Of The Dark (1998 Digital Remaster)1\Paranoid1\Paranoid1\Skin O' My Teeth (Remastered)1\Postmortem1\Slaughter Of The Soul25
+power
+12\Give Me Liberty... Or Give Me Death7\Fury Of The Storm1\Lightning Strike1\Strike of the Beast1\Back In Black1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Raining Blood23
+never
+7\Enter Sandman5\Walk with Me In Hell2\Give Me Liberty... Or Give Me Death2\South Of Heaven2\Slaughter Of The Soul1\Wasted Years1\Master Of Puppets1\War Is My Sheppard1\Back In Black1\Skeletons Of Society22
+painkiller
+13\Painkiller9\Painkiller21
+blood
+3\Angel Of Death3\War Ensemble2\The Threat Is Real2\Medusa2\Raining Blood2\Postmortem1\The Four Horsemen1\Strike of the Beast1\Holy Wars...The Punishment Due1\Skin O' My Teeth (Remastered)1\Piece By Piece1\Walk with Me In Hell1\Fury Of The Storm20
+hell
+11\Walk with Me In Hell3\Lightning Strike1\Run to the Hills1\Master Of Puppets1\Firepower1\Strike of the Beast1\Medusa1\Fury Of The Storm20
+thunderstruck
+20\Thunderstruck19
+control
+12\Give Me Liberty... Or Give Me Death5\Dead Skin Mask1\Crazy Train1\Madhouse19
+searching
+12\Seek & Destroy4\Wasted Years2\Mirror Of Sins1\Fear Of The Dark (1998 Digital Remaster)19
+love
+15\Ain't Talkin' 'Bout Love1\Paranoid1\Sad But True1\Crazy Train1\Paranoid19
+peace
+15\Peace Sells3\WINGS OF JUSTICE1\Firepower18
+strike
+10\Lightning Strike4\Medusa2\Strike of the Beast2\The Threat Is Real18
+evil
+10\WINGS OF JUSTICE3\Medusa1\Seek & Destroy1\Firepower1\Strike of the Beast1\South Of Heaven1\Fury Of The Storm17
+hate
+6\Repentless3\Sad But True2\Slaughter Of The Soul1\War Is My Sheppard1\Crazy Train1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\South Of Heaven1\Fury Of The Storm17
+thunder
+15\Thunderstruck1\Painkiller1\Painkiller17
+down
+3\Strike of the Beast3\Holy Wars...The Punishment Due2\Hooked2\Angel Of Death1\Fear Of The Dark (1998 Digital Remaster)1\Enter Sandman1\The Four Horsemen1\Thunderstruck1\Skin O' My Teeth (Remastered)1\Ain't Talkin' 'Bout Love1\Fury Of The Storm16
+fears
+10\Blinded By Fear2\Give Me Liberty... Or Give Me Death2\Dread And The Fugitive Mind1\Madhouse1\Mirror Of Sins16
+soul
+4\Slaughter Of The Soul3\Dead Skin Mask3\Seasons In The Abyss2\Enter Sandman1\Hooked1\South Of Heaven1\Cold1\Mirror Of Sins16
+seek
+12\Seek & Destroy2\Walk with Me In Hell1\Angry Again1\Piece By Piece16
+before
+12\Ain't Talkin' 'Bout Love1\Fear Of The Dark (1998 Digital Remaster)1\Enter Sandman1\South Of Heaven1\Dead Skin Mask15
+alone
+8\Walk with Me In Hell2\Fear Of The Dark (1998 Digital Remaster)1\Trooper1\War Is My Sheppard1\Dread And The Fugitive Mind1\Madhouse1\They Will Return15
+live
+5\That we should see the light3\Repentless1\Trooper1\Seek & Destroy1\Strike of the Beast1\Crazy Train1\Holy Wars...The Punishment Due1\Madhouse1\Postmortem15
+night
+4\Enter Sandman3\Fear Of The Dark (1998 Digital Remaster)3\The Four Horsemen2\War Ensemble1\Wasted Years1\Strike of the Beast1\Madhouse15
+well
+11\Back In Black1\Run to the Hills1\Hooked1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls15
+light
+5\Enter Sandman2\Fear Of The Dark (1998 Digital Remaster)2\Mirror Of Sins1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Madhouse1\South Of Heaven1\Dead Skin Mask1\Walk with Me In Hell15
+pay
+6\Seek & Destroy4\War Is My Sheppard3\Sad But True1\Back In Black1\Peace Sells15
+forever
+6\Fury Of The Storm4\That we should see the light1\Sad But True1\Painkiller1\Painkiller1\Postmortem1\War Ensemble15
+ain
+10\Ain't Talkin' 'Bout Love2\Repentless1\Wasted Years1\Holy Wars...The Punishment Due1\Peace Sells14
+ride
+6\The Four Horsemen4\Fury Of The Storm3\Repentless1\Skin O' My Teeth (Remastered)14
+true
+10\Sad But True1\Paranoid1\Paranoid1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls14
+won
+3\Slaughter Of The Soul2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Trooper1\Seek & Destroy1\That we should see the light1\Dread And The Fugitive Mind1\Madhouse1\Skeletons Of Society1\Piece By Piece14
+nothing
+2\Dread And The Fugitive Mind2\Skeletons Of Society1\Paranoid1\Sad But True1\Seek & Destroy1\The Four Horsemen1\Hooked1\Paranoid1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Peace Sells1\Tornado Of Souls1\Postmortem14
+fall
+6\Madhouse2\Blinded By Fear1\Trooper1\Hooked1\Raining Blood1\Postmortem1\Cold1\Mirror Of Sins14
+dreams
+4\Master Of Puppets3\Enter Sandman3\Dead Skin Mask1\Seek & Destroy1\Lightning Strike1\Madhouse1\Skeletons Of Society14
+black
+9\Back In Black1\That we should see the light1\Strike of the Beast1\Hooked1\South Of Heaven1\Mirror Of Sins13
+fear
+9\Fear Of The Dark (1998 Digital Remaster)1\Trooper1\Master Of Puppets1\Lightning Strike1\Strike of the Beast13
+wings
+6\WINGS OF JUSTICE2\They Will Return1\Painkiller1\Painkiller1\Angel Of Death1\Cold1\Fury Of The Storm13
+sky
+3\Raining Blood3\Skeletons Of Society3\WINGS OF JUSTICE1\Trooper1\Wasted Years1\Blinded By Fear1\They Will Return13
+cold
+4\Medusa2\Angel Of Death2\Cold1\Crazy Train1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Postmortem1\Dead Skin Mask13
+stand
+5\Fury Of The Storm4\Wasted Years2\Holy Wars...The Punishment Due1\Trooper1\Mirror Of Sins13
+insane
+4\Seasons In The Abyss3\Madhouse1\Seek & Destroy1\Crazy Train1\Hooked1\Paranoid1\Skeletons Of Society1\Dead Skin Mask13
+skin
+6\Skin O' My Teeth (Remastered)3\Dead Skin Mask1\Fear Of The Dark (1998 Digital Remaster)1\That we should see the light1\Lightning Strike1\Angel Of Death13
+people
+4\Give Me Liberty... Or Give Me Death2\Holy Wars...The Punishment Due2\War Ensemble1\Paranoid1\Crazy Train1\Paranoid1\Peace Sells1\Skin O' My Teeth (Remastered)13
+sells
+12\Peace Sells1\Crazy Train13
+destroy
+12\Seek & Destroy1\Holy Wars...The Punishment Due13
+world
+3\WINGS OF JUSTICE2\Medusa1\Seek & Destroy1\Firepower1\Lightning Strike1\Strike of the Beast1\Holy Wars...The Punishment Due1\Madhouse1\Skeletons Of Society1\Repentless13
+lies
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls2\Slaughter Of The Soul2\Cold1\Sad But True1\Master Of Puppets1\Medusa1\Postmortem1\Skeletons Of Society13
+fire
+3\Lightning Strike2\Trooper2\Strike of the Beast1\Enter Sandman1\Seek & Destroy1\Painkiller1\Painkiller1\Skeletons Of Society1\Fury Of The Storm12
+fly
+6\WINGS OF JUSTICE4\Fury Of The Storm2\They Will Return12
+pray
+8\Walk with Me In Hell2\Enter Sandman1\Firepower1\War Is My Sheppard12
+she
+10\Medusa1\Paranoid1\Paranoid12
+yes
+12\Back In Black12
+living
+4\Wasted Years2\Crazy Train2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Repentless1\Mirror Of Sins12
+baaack
+12\Back In Black12
+angry
+12\Angry Again12
+lightning
+10\Lightning Strike2\Fury Of The Storm12
+something
+3\Fear Of The Dark (1998 Digital Remaster)2\Dread And The Fugitive Mind1\Paranoid1\Enter Sandman1\Crazy Train1\Holy Wars...The Punishment Due1\Paranoid1\Peace Sells1\Ain't Talkin' 'Bout Love12
+flesh
+3\Piece By Piece2\The Threat Is Real2\Medusa2\Dead Skin Mask1\Angry Again1\Angel Of Death1\Seasons In The Abyss12
+dark
+10\Fear Of The Dark (1998 Digital Remaster)2\Fury Of The Storm12
+her
+8\Medusa2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls12
+fight
+4\WINGS OF JUSTICE2\Trooper2\Firepower1\Seek & Destroy1\The Four Horsemen1\Lightning Strike1\Give Me Liberty... Or Give Me Death11
+medusa
+11\Medusa11
+dave
+2\Angry Again2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Skin O' My Teeth (Remastered)2\Dread And The Fugitive Mind2\Tornado Of Souls1\The Four Horsemen11
+own
+4\Give Me Liberty... Or Give Me Death2\Run to the Hills1\Crazy Train1\Hooked1\Dread And The Fugitive Mind1\Postmortem1\South Of Heaven11
+hanneman
+4\Angel Of Death2\South Of Heaven2\War Ensemble2\Seasons In The Abyss1\Dead Skin Mask11
+lose
+4\Dread And The Fugitive Mind2\Dead Skin Mask1\Paranoid1\Strike of the Beast1\Paranoid1\Angry Again1\WINGS OF JUSTICE11
+waiting
+6\Lightning Strike2\Raining Blood1\Trooper1\Blinded By Fear1\They Will Return11
+years
+8\Wasted Years1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Cold11
+fate
+3\The Four Horsemen3\Lightning Strike1\War Is My Sheppard1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Medusa1\Postmortem11
+always
+4\Wasted Years4\Fear Of The Dark (1998 Digital Remaster)1\Seek & Destroy1\Skeletons Of Society1\Slaughter Of The Soul11
+end
+2\Walk with Me In Hell1\Seek & Destroy1\Master Of Puppets1\Hooked1\Holy Wars...The Punishment Due1\Dread And The Fugitive Mind1\Medusa1\Angel Of Death1\Skeletons Of Society1\War Ensemble11
+mustaine
+2\Angry Again2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Skin O' My Teeth (Remastered)2\Dread And The Fugitive Mind2\Tornado Of Souls1\The Four Horsemen11
+some
+3\Thunderstruck2\Holy Wars...The Punishment Due2\Mirror Of Sins1\The Four Horsemen1\Give Me Liberty... Or Give Me Death1\Walk with Me In Hell1\They Will Return10
+victory
+5\Fury Of The Storm4\War Ensemble1\Firepower10
+close
+6\Seasons In The Abyss1\Trooper1\Wasted Years1\Skin O' My Teeth (Remastered)1\Piece By Piece10
+faster
+6\Master Of Puppets2\Painkiller2\Painkiller10
+eye
+4\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)4\Tornado Of Souls2\Enter Sandman10
+near
+2\Trooper2\Fear Of The Dark (1998 Digital Remaster)2\Medusa2\Postmortem1\Holy Wars...The Punishment Due1\Raining Blood10
+return
+5\They Will Return4\That we should see the light1\Raining Blood10
+tornado
+5\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)5\Tornado Of Souls10
+dying
+6\Seek & Destroy1\Wasted Years1\The Four Horsemen1\That we should see the light1\Angel Of Death10
+help
+3\Madhouse2\Paranoid2\Thunderstruck2\Paranoid1\Master Of Puppets10
+scream
+6\Master Of Puppets1\Painkiller1\Painkiller1\Holy Wars...The Punishment Due1\WINGS OF JUSTICE10
+yourself
+6\Seasons In The Abyss2\Give Me Liberty... Or Give Me Death1\Ain't Talkin' 'Bout Love1\Postmortem10
+running
+7\Seek & Destroy1\Strike of the Beast1\Back In Black1\Angel Of Death9
+air
+3\They Will Return2\Angry Again1\Dread And The Fugitive Mind1\Madhouse1\Postmortem1\War Ensemble9
+kill
+2\Holy Wars...The Punishment Due2\War Ensemble1\Seek & Destroy1\War Is My Sheppard1\Skin O' My Teeth (Remastered)1\Repentless1\Seasons In The Abyss9
+buying
+9\Peace Sells9
+better
+3\Peace Sells2\Dread And The Fugitive Mind1\Trooper1\The Four Horsemen1\Give Me Liberty... Or Give Me Death1\Ain't Talkin' 'Bout Love9
+brain
+2\Skeletons Of Society1\Paranoid1\Paranoid1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Skin O' My Teeth (Remastered)1\Tornado Of Souls1\Angel Of Death1\Postmortem9
+land
+3\Enter Sandman2\Medusa1\Give Me Liberty... Or Give Me Death1\Holy Wars...The Punishment Due1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls9
+thousand
+6\Seek & Destroy1\Painkiller1\Painkiller1\Angel Of Death9
+breath
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls2\Piece By Piece1\Trooper1\The Four Horsemen1\Hooked9
+must
+3\Sad But True2\Slaughter Of The Soul1\Paranoid1\Holy Wars...The Punishment Due1\Paranoid1\South Of Heaven9
+demon
+4\Medusa2\Strike of the Beast1\The Four Horsemen1\Lightning Strike1\Blinded By Fear9
+hetfield
+2\Sad But True2\Seek & Destroy2\The Four Horsemen2\Master Of Puppets1\Enter Sandman9
+lead
+5\Angel Of Death2\South Of Heaven1\Lightning Strike1\Fury Of The Storm9
+hand
+3\Enter Sandman3\Walk with Me In Hell2\Dread And The Fugitive Mind1\Angry Again9
+high
+3\Repentless2\Painkiller2\Painkiller1\Back In Black1\They Will Return9
+another
+3\Slaughter Of The Soul2\Trooper2\Wasted Years1\Back In Black1\Postmortem9
+inside
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls2\Angel Of Death1\Sad But True1\The Four Horsemen1\Madhouse9
+sad
+9\Sad But True9
+heart
+4\WINGS OF JUSTICE1\Wasted Years1\Thunderstruck1\South Of Heaven1\Cold1\Mirror Of Sins9
+forget
+3\Seasons In The Abyss1\Enter Sandman1\Crazy Train1\Back In Black1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Skin O' My Teeth (Remastered)1\Tornado Of Souls8
+trapped
+3\Madhouse2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Raining Blood8
+together
+4\Fury Of The Storm3\That we should see the light1\Angel Of Death8
+crazy
+8\Crazy Train8
+free
+2\Slaughter Of The Soul1\Run to the Hills1\Enter Sandman1\Painkiller1\Painkiller1\Give Me Liberty... Or Give Me Death1\Angel Of Death8
+talking
+8\Ain't Talkin' 'Bout Love8
+dream
+7\Sad But True1\Cold8
+james
+2\Sad But True2\Seek & Destroy2\The Four Horsemen2\Master Of Puppets8
+killing
+2\Master Of Puppets1\Run to the Hills1\The Four Horsemen1\War Is My Sheppard1\Holy Wars...The Punishment Due1\Repentless1\Fury Of The Storm8
+right
+4\Dread And The Fugitive Mind2\That we should see the light1\Strike of the Beast1\Peace Sells8
+nightmare
+3\Lightning Strike3\Madhouse1\Angel Of Death1\Walk with Me In Hell8
+final
+2\The Threat Is Real2\War Ensemble2\Slaughter Of The Soul1\Postmortem1\Cold8
+new
+2\Peace Sells2\Postmortem1\Seek & Destroy1\South Of Heaven1\Slaughter Of The Soul1\Cold8
+earth
+4\Blinded By Fear2\Cold1\Strike of the Beast1\War Ensemble8
+deep
+6\Seasons In The Abyss1\Angel Of Death1\War Ensemble8
+may
+7\That we should see the light1\Ain't Talkin' 'Bout Love8
+mean
+7\Peace Sells1\Holy Wars...The Punishment Due8
+firepower
+8\Firepower8
+hiding
+6\Seek & Destroy2\They Will Return8
+past
+3\That we should see the light2\Mirror Of Sins1\Holy Wars...The Punishment Due1\Raining Blood1\Skeletons Of Society8
+future
+3\That we should see the light1\Firepower1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\South Of Heaven1\Skeletons Of Society8
+real
+4\The Threat Is Real3\Sad But True1\Mirror Of Sins8
+begins
+3\Madhouse1\Trooper1\Fear Of The Dark (1998 Digital Remaster)1\Strike of the Beast1\Angel Of Death1\Postmortem7
+empty
+3\Madhouse2\Dead Skin Mask1\Firepower1\Skin O' My Teeth (Remastered)7
+someone
+3\Fear Of The Dark (1998 Digital Remaster)1\Wasted Years1\Paranoid1\Strike of the Beast1\Paranoid7
+nevermore
+4\War Is My Sheppard1\Painkiller1\Painkiller1\South Of Heaven7
+lives
+3\Run to the Hills2\Medusa1\Firepower1\Back In Black7
+cry
+2\Fury Of The Storm1\Wasted Years1\Paranoid1\Paranoid1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls7
+soon
+3\Fury Of The Storm2\Piece By Piece1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls7
+reality
+3\Blinded By Fear2\Postmortem1\South Of Heaven1\Dead Skin Mask7
+head
+1\Enter Sandman1\Lightning Strike1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Medusa1\Seasons In The Abyss1\Piece By Piece7
+unleashed
+7\Blinded By Fear7
+train
+6\Crazy Train1\Skin O' My Teeth (Remastered)7
+mental
+4\Angry Again3\Crazy Train7
+fury
+6\Fury Of The Storm1\Skeletons Of Society7
+days
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls2\Skeletons Of Society1\Master Of Puppets7
+angel
+7\Angel Of Death7
+rise
+3\They Will Return2\Cold1\That we should see the light1\Firepower7
+deaths
+6\Seek & Destroy1\Master Of Puppets7
+mine
+6\Dread And The Fugitive Mind1\War Is My Sheppard7
+ending
+3\That we should see the light2\Give Me Liberty... Or Give Me Death2\South Of Heaven7
+god
+2\War Is My Sheppard2\Holy Wars...The Punishment Due1\Peace Sells1\Piece By Piece1\Walk with Me In Hell7
+four
+3\The Four Horsemen3\Madhouse1\Angel Of Death7
+late
+3\Paranoid1\Paranoid1\Crazy Train1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls7
+thoughts
+3\Seasons In The Abyss2\Holy Wars...The Punishment Due1\Enter Sandman1\Postmortem7
+smoke
+4\Angry Again1\Trooper1\Painkiller1\Painkiller7
+keep
+2\Enter Sandman2\Give Me Liberty... Or Give Me Death2\WINGS OF JUSTICE1\Back In Black6
+mankind
+2\Painkiller2\Painkiller1\Lightning Strike1\Angel Of Death6
+sleep
+3\Enter Sandman1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Madhouse6
+obey
+6\Master Of Puppets6
+fighting
+3\WINGS OF JUSTICE1\Run to the Hills1\That we should see the light1\Fury Of The Storm6
+understand
+4\Wasted Years1\War Is My Sheppard1\Holy Wars...The Punishment Due6
+exit
+4\Enter Sandman2\Piece By Piece6
+clinging
+6\Skin O' My Teeth (Remastered)6
+force
+4\Fury Of The Storm1\South Of Heaven1\Slaughter Of The Soul6
+walking
+3\Lightning Strike2\Fear Of The Dark (1998 Digital Remaster)1\Strike of the Beast6
+because
+2\Dread And The Fugitive Mind1\Fear Of The Dark (1998 Digital Remaster)1\Paranoid1\Holy Wars...The Punishment Due1\Paranoid6
+children
+3\Slaughter Of The Soul1\Run to the Hills1\The Four Horsemen1\South Of Heaven6
+mirror
+5\Mirror Of Sins1\Master Of Puppets6
+storm
+5\Fury Of The Storm1\Firepower6
+teeth
+6\Skin O' My Teeth (Remastered)6
+killings
+6\Holy Wars...The Punishment Due6
+kind
+2\Peace Sells2\Mirror Of Sins1\Thunderstruck1\Walk with Me In Hell6
+kingdom
+3\Angel Of Death2\Fury Of The Storm1\That we should see the light6
+scars
+4\War Is My Sheppard1\That we should see the light1\Cold6
+justice
+6\WINGS OF JUSTICE6
+society
+5\Skeletons Of Society1\Repentless6
+liberty
+6\Give Me Liberty... Or Give Me Death6
+dear
+6\That we should see the light6
+deadly
+2\Painkiller2\Painkiller2\The Threat Is Real6
+reach
+3\Fury Of The Storm1\Give Me Liberty... Or Give Me Death1\Angel Of Death1\Piece By Piece6
+darkness
+2\Fury Of The Storm1\Skeletons Of Society1\War Ensemble1\Cold1\Walk with Me In Hell6
+golden
+4\Wasted Years1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls6
+gone
+3\Madhouse1\Wasted Years1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls6
+stare
+3\Seasons In The Abyss2\Medusa1\Angry Again6
+solo
+1\Fear Of The Dark (1998 Digital Remaster)1\War Is My Sheppard1\Thunderstruck1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Medusa6
+rails
+6\Crazy Train6
+crime
+4\Angry Again1\Holy Wars...The Punishment Due1\Madhouse6
+piece
+6\Piece By Piece6
+fills
+3\Skeletons Of Society1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Madhouse6
+madhouse
+6\Madhouse6
+escaping
+6\Skin O' My Teeth (Remastered)6
+belong
+6\Skin O' My Teeth (Remastered)6
+born
+2\Slaughter Of The Soul2\Blinded By Fear1\The Four Horsemen1\Postmortem6
+walls
+3\Madhouse1\Dread And The Fugitive Mind1\Postmortem1\War Ensemble6
+outside
+6\Seasons In The Abyss6
+souls
+2\South Of Heaven1\Firepower1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Raining Blood6
+blow
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Trooper1\The Four Horsemen6
+bleed
+4\Ain't Talkin' 'Bout Love1\Angel Of Death1\Seasons In The Abyss6
+behind
+2\Fear Of The Dark (1998 Digital Remaster)1\Holy Wars...The Punishment Due1\Dread And The Fugitive Mind1\Madhouse1\Postmortem6
+blind
+2\Slaughter Of The Soul1\Paranoid1\Paranoid1\Postmortem1\Blinded By Fear6
+body
+1\Trooper1\The Four Horsemen1\Strike of the Beast1\Angry Again1\Skin O' My Teeth (Remastered)1\Postmortem6
+beyond
+3\Fury Of The Storm2\Postmortem1\That we should see the light6
+horsemen
+6\The Four Horsemen6
+enraged
+4\Angry Again1\Painkiller1\Painkiller5
+wish
+3\Madhouse1\Paranoid1\Paranoid5
+starts
+4\Angry Again1\Angel Of Death5
+fast
+3\Repentless1\Dread And The Fugitive Mind1\Skeletons Of Society5
+rules
+2\Give Me Liberty... Or Give Me Death1\Crazy Train1\Thunderstruck1\Raining Blood5
+fires
+5\Fury Of The Storm5
+mercy
+3\Holy Wars...The Punishment Due1\Dread And The Fugitive Mind1\Angel Of Death5
+full
+1\Painkiller1\Painkiller1\Strike of the Beast1\Medusa1\Fury Of The Storm5
+against
+4\WINGS OF JUSTICE1\They Will Return5
+laughter
+5\Master Of Puppets5
+until
+3\WINGS OF JUSTICE1\Seek & Destroy1\Postmortem5
+bullet
+2\Painkiller2\Painkiller1\Back In Black5
+age
+3\South Of Heaven1\War Ensemble1\Walk with Me In Hell5
+same
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Dead Skin Mask1\Slaughter Of The Soul1\They Will Return5
+till
+2\Piece By Piece1\Wasted Years1\Enter Sandman1\War Ensemble5
+left
+1\Lightning Strike1\Give Me Liberty... Or Give Me Death1\Dread And The Fugitive Mind1\Angel Of Death1\Piece By Piece5
+comes
+1\Enter Sandman1\That we should see the light1\Painkiller1\Painkiller1\The Threat Is Real5
+maze
+3\Madhouse1\Master Of Puppets1\Angry Again5
+sin
+2\Medusa2\Slaughter Of The Soul1\Enter Sandman5
+rule
+3\WINGS OF JUSTICE1\Master Of Puppets1\Crazy Train5
+ulrich
+1\Enter Sandman1\Sad But True1\Seek & Destroy1\The Four Horsemen1\Master Of Puppets5
+tipton
+2\Firepower2\Lightning Strike1\Painkiller5
+rotten
+4\Ain't Talkin' 'Bout Love1\Piece By Piece5
+surely
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Holy Wars...The Punishment Due5
+lie
+2\Piece By Piece1\Lightning Strike1\Repentless1\Walk with Me In Hell5
+work
+3\Peace Sells2\Sad But True5
+next
+3\Holy Wars...The Punishment Due1\Trooper1\Give Me Liberty... Or Give Me Death5
+words
+1\Wasted Years1\Paranoid1\Crazy Train1\Paranoid1\Postmortem5
+rage
+4\WINGS OF JUSTICE1\Strike of the Beast5
+open
+2\Enter Sandman1\Sad But True1\That we should see the light1\Firepower5
+skeletons
+4\Skeletons Of Society1\Postmortem5
+shake
+3\Madhouse2\Dread And The Fugitive Mind5
+knees
+2\Thunderstruck1\Painkiller1\Painkiller1\Dread And The Fugitive Mind5
+strong
+5\Fury Of The Storm5
+talk
+4\Ain't Talkin' 'Bout Love1\Peace Sells5
+caught
+4\Dread And The Fugitive Mind1\Thunderstruck5
+game
+3\Run to the Hills1\Angry Again1\Skeletons Of Society5
+araya
+2\Seasons In The Abyss1\South Of Heaven1\Dead Skin Mask1\War Ensemble5
+while
+4\Sad But True1\Give Me Liberty... Or Give Me Death5
+freedom
+3\Give Me Liberty... Or Give Me Death1\Run to the Hills1\Firepower5
+steel
+2\Painkiller2\Painkiller1\Hooked5
+after
+2\Hooked1\Master Of Puppets1\Postmortem1\They Will Return5
+over
+3\WINGS OF JUSTICE2\Hooked5
+burns
+3\Master Of Puppets2\Angel Of Death5
+lost
+3\Dead Skin Mask1\Ain't Talkin' 'Bout Love1\Walk with Me In Hell5
+white
+2\Madhouse1\Run to the Hills1\Enter Sandman1\Skin O' My Teeth (Remastered)5
+fragments
+5\Skeletons Of Society5
+longer
+3\Walk with Me In Hell1\Sad But True1\Skin O' My Teeth (Remastered)5
+throat
+4\Angry Again1\Trooper5
+purgatory
+4\Blinded By Fear1\Raining Blood5
+road
+2\Fear Of The Dark (1998 Digital Remaster)2\Fury Of The Storm1\Repentless5
+choose
+3\The Four Horsemen1\Angry Again1\Dread And The Fugitive Mind5
+sun
+4\Fury Of The Storm1\Skeletons Of Society5
+lines
+2\War Ensemble1\The Four Horsemen1\Holy Wars...The Punishment Due1\Postmortem5
+shades
+5\Skeletons Of Society5
+bed
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls1\Enter Sandman5
+hard
+2\Run to the Hills1\Wasted Years1\Fear Of The Dark (1998 Digital Remaster)1\Give Me Liberty... Or Give Me Death5
+screams
+3\Dead Skin Mask1\Trooper1\Angel Of Death5
+long
+1\Paranoid1\Back In Black1\Paranoid1\Dread And The Fugitive Mind1\Angel Of Death5
+taking
+2\Mirror Of Sins1\Run to the Hills1\Seek & Destroy1\Firepower5
+halford
+2\Firepower2\Lightning Strike1\Painkiller4
+waste
+4\Wasted Years4
+apart
+2\Slaughter Of The Soul1\Thunderstruck1\Angel Of Death4
+fame
+2\Repentless1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls4
+curse
+2\Medusa1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls4
+hour
+3\Fury Of The Storm1\Raining Blood4
+wasted
+4\Wasted Years4
+bones
+1\That we should see the light1\Angry Again1\War Ensemble1\Piece By Piece4
+listen
+3\Dead Skin Mask1\Crazy Train4
+flames
+4\WINGS OF JUSTICE4
+appease
+4\Medusa4
+replace
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls4
+staring
+3\Medusa1\Angel Of Death4
+sword
+4\WINGS OF JUSTICE4
+prayers
+3\Lightning Strike1\Enter Sandman4
+across
+1\Wasted Years1\Run to the Hills1\Holy Wars...The Punishment Due1\Fury Of The Storm4
+tear
+2\Slaughter Of The Soul1\Trooper1\Angry Again4
+above
+2\Cold1\Raining Blood1\War Ensemble4
+bjorler
+2\Slaughter Of The Soul1\Cold1\Blinded By Fear4
+glenn
+2\Firepower2\Lightning Strike4
+feeling
+2\Seek & Destroy1\Hooked1\Dread And The Fugitive Mind4
+disease
+1\Dread And The Fugitive Mind1\Ain't Talkin' 'Bout Love1\Cold1\Blinded By Fear4
+terror
+3\Piece By Piece1\Cold4
+faulkner
+2\Firepower2\Lightning Strike4
+lack
+2\The Threat Is Real1\Firepower1\Holy Wars...The Punishment Due4
+died
+4\War Is My Sheppard4
+friend
+2\Ain't Talkin' 'Bout Love1\Sad But True1\Hooked4
+glory
+4\Fury Of The Storm4
+young
+2\Back In Black1\Run to the Hills1\The Four Horsemen4
+lars
+1\Sad But True1\Seek & Destroy1\The Four Horsemen1\Master Of Puppets4
+destroyer
+4\Medusa4
+dawn
+3\Slaughter Of The Soul1\Firepower4
+doubt
+3\Madhouse1\That we should see the light4
+threat
+4\The Threat Is Real4
+taken
+3\Dead Skin Mask1\The Four Horsemen4
+blinded
+3\Master Of Puppets1\The Threat Is Real4
+lay
+3\Trooper1\Enter Sandman4
+ooh
+2\Thunderstruck1\Skin O' My Teeth (Remastered)1\Ain't Talkin' 'Bout Love4
+gorgon
+4\Medusa4
+safe
+2\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)2\Tornado Of Souls4
+wounds
+3\Crazy Train1\Skin O' My Teeth (Remastered)4
+deceive
+4\Medusa4
+sadistic
+3\Piece By Piece1\Angel Of Death4
+repentless
+4\Repentless4
+poison
+2\Cold1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls4
+boiling
+2\Painkiller2\Painkiller4
+myself
+2\Mirror Of Sins1\Wasted Years1\Dread And The Fugitive Mind4
+vain
+4\War Is My Sheppard4
+overload
+4\Angry Again4
+rob
+2\Firepower2\Lightning Strike4
+claim
+3\Madhouse1\Firepower4
+upmake
+4\Wasted Years4
+self
+1\Master Of Puppets1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Slaughter Of The Soul4
+seize
+4\Medusa4
+overwhelming
+4\WINGS OF JUSTICE4
+fools
+1\Crazy Train1\Thunderstruck1\Holy Wars...The Punishment Due1\Skeletons Of Society4
+meaning
+2\Give Me Liberty... Or Give Me Death1\Angel Of Death1\Walk with Me In Hell4
+chorus
+2\Peace Sells2\War Ensemble4
+within
+1\Enter Sandman1\Strike of the Beast1\Blinded By Fear1\They Will Return4
+universe
+4\Fury Of The Storm4
+wielding
+4\WINGS OF JUSTICE4
+smashing
+3\Master Of Puppets1\Fury Of The Storm4
+hole
+4\Hooked4
+twisting
+3\Master Of Puppets1\Blinded By Fear4
+realize
+4\Wasted Years4
+brought
+1\Run to the Hills1\Painkiller1\Painkiller1\Skeletons Of Society4
+battle
+4\War Is My Sheppard4
+richie
+2\Firepower2\Lightning Strike4
+grasp
+4\Angry Again4
+shame
+3\Madhouse1\Crazy Train4
+came
+2\Run to the Hills1\Skeletons Of Society1\Walk with Me In Hell4
+wake
+3\Madhouse1\Enter Sandman4
+engaged
+4\Angry Again4
+enforce
+4\Angry Again4
+care
+3\Madhouse1\Sad But True4
+steeds
+4\The Four Horsemen4
+cast
+2\Blinded By Fear1\Firepower1\Medusa4
+bearing
+3\Lightning Strike1\Skin O' My Teeth (Remastered)4
+forgotten
+1\Trooper1\South Of Heaven1\Walk with Me In Hell1\Fury Of The Storm4
+misery
+2\War Ensemble1\Run to the Hills1\Master Of Puppets4
+wheels
+2\Painkiller2\Painkiller4
+shadows
+2\Fury Of The Storm1\Fear Of The Dark (1998 Digital Remaster)1\Postmortem4
+half
+2\Painkiller2\Painkiller4
+chasing
+3\WINGS OF JUSTICE1\Run to the Hills4
+burning
+2\Skeletons Of Society1\Angel Of Death1\Cold4
+metal
+2\Painkiller2\Painkiller4
+burn
+4\Blinded By Fear4
+ground
+1\Trooper1\Postmortem1\War Ensemble1\Piece By Piece4
+him
+3\Run to the Hills1\Peace Sells4
+traitor
+4\WINGS OF JUSTICE4
+human
+1\Trooper1\Medusa1\Angel Of Death1\They Will Return4
+runs
+2\The Threat Is Real2\Medusa4
+happiness
+2\Paranoid2\Paranoid4
+enter
+4\Enter Sandman4
+core
+4\Ain't Talkin' 'Bout Love4
+below
+2\Fury Of The Storm1\Trooper1\Raining Blood4
+flying
+1\Painkiller1\Painkiller1\Strike of the Beast1\Angel Of Death4
+sport
+4\War Ensemble4
+sound
+1\The Four Horsemen1\Thunderstruck1\Fury Of The Storm1\They Will Return4
+heavens
+4\Fury Of The Storm4
+broke
+2\Thunderstruck1\Hooked1\Peace Sells4
+skies
+2\Painkiller2\Painkiller4
+government
+4\Give Me Liberty... Or Give Me Death4
+looking
+2\Repentless1\Seek & Destroy1\Ain't Talkin' 'Bout Love4
+frozen
+3\Seasons In The Abyss1\Angel Of Death4
+ready
+4\Medusa4
+march
+4\War Is My Sheppard4
+lord
+2\Enter Sandman2\War Is My Sheppard3
+shepherd
+3\War Is My Sheppard3
+door
+1\The Four Horsemen1\That we should see the light1\The Threat Is Real3
+shot
+2\The Threat Is Real1\Repentless3
+taste
+2\Master Of Puppets1\Postmortem3
+feeding
+2\Repentless1\Angel Of Death3
+impulsive
+3\South Of Heaven3
+suicidal
+2\Slaughter Of The Soul1\Blinded By Fear3
+honor
+3\WINGS OF JUSTICE3
+doing
+2\Dread And The Fugitive Mind1\Give Me Liberty... Or Give Me Death3
+killed
+2\Run to the Hills1\Holy Wars...The Punishment Due3
+scene
+2\Repentless1\Seek & Destroy3
+feast
+3\Piece By Piece3
+faith
+1\That we should see the light1\War Is My Sheppard1\South Of Heaven3
+turning
+1\Trooper1\Raining Blood1\Postmortem3
+fill
+1\Holy Wars...The Punishment Due1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+stronger
+1\Painkiller1\Painkiller1\Skin O' My Teeth (Remastered)3
+hills
+3\Run to the Hills3
+shall
+2\That we should see the light1\Raining Blood3
+show
+1\Paranoid1\Paranoid1\Angry Again3
+seems
+1\Wasted Years1\Paranoid1\Paranoid3
+shining
+2\Fury Of The Storm1\War Ensemble3
+ears
+1\The Four Horsemen1\Angry Again1\They Will Return3
+drawing
+3\The Four Horsemen3
+steal
+3\Sad But True3
+sure
+1\Fear Of The Dark (1998 Digital Remaster)1\Seek & Destroy1\The Four Horsemen3
+judgement
+2\Dread And The Fugitive Mind1\Holy Wars...The Punishment Due3
+stop
+2\Give Me Liberty... Or Give Me Death1\Angry Again3
+surround
+3\Madhouse3
+dry
+1\Trooper1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+judgment
+1\The Four Horsemen1\South Of Heaven1\Skeletons Of Society3
+strings
+3\Master Of Puppets3
+drain
+3\Seasons In The Abyss3
+swing
+2\War Ensemble1\The Four Horsemen3
+home
+2\The Threat Is Real1\Wasted Years3
+fine
+3\Thunderstruck3
+support
+2\War Ensemble1\Peace Sells3
+survive
+1\Painkiller1\Painkiller1\War Ensemble3
+seeds
+3\Lightning Strike3
+sense
+1\Fear Of The Dark (1998 Digital Remaster)1\Firepower1\Slaughter Of The Soul3
+enslave
+2\Dead Skin Mask1\Holy Wars...The Punishment Due3
+hit
+1\Back In Black1\Thunderstruck1\Skin O' My Teeth (Remastered)3
+stone
+2\Medusa1\Raining Blood3
+heard
+1\Fear Of The Dark (1998 Digital Remaster)1\Enter Sandman1\Ain't Talkin' 'Bout Love3
+enough
+2\Slaughter Of The Soul1\Trooper3
+burial
+2\War Ensemble1\Angel Of Death3
+betray
+2\Sad But True1\Master Of Puppets3
+old
+1\Run to the Hills1\Angry Again1\War Ensemble3
+occupy
+1\Paranoid1\Master Of Puppets1\Paranoid3
+blame
+3\Madhouse3
+release
+2\Blinded By Fear1\Skeletons Of Society3
+noise
+1\Enter Sandman1\Angry Again1\Madhouse3
+nick
+3\Paranoid3
+boundaries
+2\Fury Of The Storm1\Slaughter Of The Soul3
+brand
+3\Lightning Strike3
+neck
+1\Fear Of The Dark (1998 Digital Remaster)1\Skin O' My Teeth (Remastered)1\Postmortem3
+nearer
+3\The Four Horsemen3
+bringing
+3\WINGS OF JUSTICE3
+returns
+1\That we should see the light1\Painkiller1\Painkiller3
+revenge
+3\They Will Return3
+grave
+1\Painkiller1\Painkiller1\Postmortem3
+rid
+3\Cold3
+wall
+1\Trooper1\Fear Of The Dark (1998 Digital Remaster)1\Piece By Piece3
+rides
+1\The Four Horsemen1\Painkiller1\Painkiller3
+cannot
+1\Paranoid1\Crazy Train1\Medusa3
+cares
+2\The Threat Is Real1\Sad But True3
+sowing
+3\Lightning Strike3
+sown
+3\Slaughter Of The Soul3
+monarch
+3\Angel Of Death3
+modulistic
+3\Piece By Piece3
+guns
+1\Trooper1\Thunderstruck1\Fury Of The Storm3
+rip
+2\Piece By Piece1\Angel Of Death3
+habitat
+2\South Of Heaven1\Master Of Puppets3
+chaos
+3\South Of Heaven3
+vast
+3\Piece By Piece3
+art
+2\Slaughter Of The Soul1\War Ensemble3
+pulling
+3\Master Of Puppets3
+abusing
+2\Give Me Liberty... Or Give Me Death1\Back In Black3
+yours
+2\Dread And The Fugitive Mind1\Trooper3
+yet
+1\Trooper1\Strike of the Beast1\Postmortem3
+puppets
+3\Master Of Puppets3
+wwwlrcnet
+1\Postmortem1\Repentless1\They Will Return3
+wrong
+1\Enter Sandman1\The Four Horsemen1\Crazy Train3
+alive
+1\The Threat Is Real1\Raining Blood1\Repentless3
+point
+3\Hooked3
+gaze
+3\Madhouse3
+race
+1\Trooper1\Angry Again1\Angel Of Death3
+playing
+1\Fear Of The Dark (1998 Digital Remaster)1\War Ensemble1\Repentless3
+place
+1\The Four Horsemen1\Give Me Liberty... Or Give Me Death1\They Will Return3
+arslayer
+1\Postmortem1\Skeletons Of Society1\Repentless3
+distrust
+3\South Of Heaven3
+ash
+3\That we should see the light3
+ask
+1\Firepower1\Holy Wars...The Punishment Due1\Dread And The Fugitive Mind3
+rampant
+3\South Of Heaven3
+sometimes
+2\Fear Of The Dark (1998 Digital Remaster)1\Wasted Years3
+wire
+3\Lightning Strike3
+smell
+1\Trooper1\Strike of the Beast1\Angel Of Death3
+reap
+3\Slaughter Of The Soul3
+beast
+2\Strike of the Beast1\Enter Sandman3
+wicked
+2\Dread And The Fugitive Mind1\Medusa3
+whole
+3\Madhouse3
+reason
+1\Master Of Puppets1\Postmortem1\War Ensemble3
+beginning
+3\That we should see the light3
+ought
+2\Dread And The Fugitive Mind1\Give Me Liberty... Or Give Me Death3
+deliverance
+2\The Four Horsemen1\Walk with Me In Hell3
+towards
+2\Fury Of The Storm1\Trooper3
+touch
+2\The Threat Is Real1\Postmortem3
+tonight
+1\Enter Sandman1\Seek & Destroy1\Fury Of The Storm3
+lips
+1\Angry Again1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+cut
+2\Give Me Liberty... Or Give Me Death1\Angry Again3
+dance
+3\Dead Skin Mask3
+line
+2\Peace Sells1\Skin O' My Teeth (Remastered)3
+lindberg
+1\Slaughter Of The Soul1\Cold1\Blinded By Fear3
+lights
+1\Firepower1\Skin O' My Teeth (Remastered)1\The Threat Is Real3
+lifeless
+2\Dead Skin Mask1\Raining Blood3
+starlight
+3\Fury Of The Storm3
+start
+1\Seek & Destroy1\Strike of the Beast1\Hooked3
+leather
+3\The Four Horsemen3
+first
+2\Peace Sells1\Holy Wars...The Punishment Due3
+spin
+1\Lightning Strike1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+saints
+3\That we should see the light3
+demise
+1\Firepower1\Angel Of Death1\Skeletons Of Society3
+demons
+3\Lightning Strike3
+last
+1\The Four Horsemen1\Hooked1\Angel Of Death3
+sanity
+2\Postmortem1\South Of Heaven3
+lands
+2\Fury Of The Storm1\Holy Wars...The Punishment Due3
+sins
+3\Mirror Of Sins3
+sinners
+3\That we should see the light3
+fingers
+2\Dread And The Fugitive Mind1\Fear Of The Dark (1998 Digital Remaster)3
+king
+2\Angel Of Death1\South Of Heaven3
+temptation
+3\Dead Skin Mask3
+telling
+1\Paranoid1\Sad But True1\Paranoid3
+tears
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Raining Blood3
+tearing
+2\Cold1\Postmortem3
+cover
+2\The Threat Is Real1\Sad But True3
+hallowed
+3\Dead Skin Mask3
+use
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls1\Angel Of Death3
+men
+2\Slaughter Of The Soul1\Run to the Hills3
+slaughter
+2\Slaughter Of The Soul1\War Ensemble3
+closing
+1\Painkiller1\Painkiller1\Cold3
+room
+1\Fear Of The Dark (1998 Digital Remaster)1\Skin O' My Teeth (Remastered)1\Seasons In The Abyss3
+under
+1\Enter Sandman1\Painkiller1\Painkiller3
+twist
+1\Angry Again1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+massacre
+3\War Ensemble3
+hanging
+1\Hooked1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+confrontations
+3\South Of Heaven3
+mask
+2\Sad But True1\Angry Again3
+rotting
+2\Give Me Liberty... Or Give Me Death1\War Ensemble3
+turn
+2\Medusa1\Strike of the Beast3
+tuck
+1\Enter Sandman1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls3
+try
+1\Seek & Destroy1\Back In Black1\Angry Again3
+crawling
+3\Master Of Puppets3
+truth
+1\Sad But True1\South Of Heaven1\Walk with Me In Hell3
+lust
+2\The Threat Is Real1\South Of Heaven3
+couldn
+1\Paranoid1\Paranoid1\Peace Sells3
+lrc
+1\Postmortem1\Repentless1\They Will Return2
+proven
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+simple
+2\Dead Skin Mask2
+healing
+2\Crazy Train2
+graze
+2\Dead Skin Mask2
+graves
+1\Give Me Liberty... Or Give Me Death1\War Ensemble2
+hammett
+1\Enter Sandman1\Master Of Puppets2
+haunted
+2\Dread And The Fugitive Mind2
+sinner
+2\The Four Horsemen2
+goes
+1\Wasted Years1\Crazy Train2
+guilty
+2\Dread And The Fugitive Mind2
+heaven
+2\South Of Heaven2
+gold
+1\Wasted Years1\Run to the Hills2
+slow
+1\Hooked1\Angel Of Death2
+smiles
+2\Dead Skin Mask2
+gripping
+2\Enter Sandman2
+glass
+2\Mirror Of Sins2
+since
+1\The Four Horsemen1\Skeletons Of Society2
+grow
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+hellish
+2\Strike of the Beast2
+having
+2\Give Me Liberty... Or Give Me Death2
+morning
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+opportunity
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+onto
+1\Hooked1\War Ensemble2
+regrets
+2\Repentless2
+regulations
+2\Give Me Liberty... Or Give Me Death2
+obliteration
+2\The Threat Is Real2
+remains
+2\Skeletons Of Society2
+rendezvous
+2\The Threat Is Real2
+repay
+2\Sad But True2
+reprisal
+2\Raining Blood2
+nest
+2\The Threat Is Real2
+nauseating
+2\Blinded By Fear2
+ressurrected
+1\Painkiller1\Painkiller2
+music
+1\Angry Again1\They Will Return2
+murderer
+2\The Threat Is Real2
+ornaments
+1\Raining Blood1\Dead Skin Mask2
+riding
+1\Run to the Hills1\Fury Of The Storm2
+monster
+1\Painkiller1\Painkiller2
+money
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+rights
+2\Give Me Liberty... Or Give Me Death2
+miss
+1\Wasted Years1\They Will Return2
+minutes
+2\Skeletons Of Society2
+minimizing
+2\Give Me Liberty... Or Give Me Death2
+minds
+1\Seek & Destroy1\War Ensemble2
+millions
+1\Crazy Train1\Angel Of Death2
+might
+1\Lightning Strike1\Holy Wars...The Punishment Due2
+ritual
+1\Master Of Puppets1\Seasons In The Abyss2
+messiah
+2\The Threat Is Real2
+memories
+2\Skeletons Of Society2
+pillow
+2\Enter Sandman2
+psychotic
+2\Dead Skin Mask2
+propaganda
+2\War Ensemble2
+pulls
+1\Trooper1\Angry Again2
+price
+1\Sad But True1\Peace Sells2
+push
+1\Back In Black1\War Ensemble2
+quest
+1\Skeletons Of Society1\Fury Of The Storm2
+population
+2\Give Me Liberty... Or Give Me Death2
+please
+2\Thunderstruck2
+pleas
+1\Painkiller1\Painkiller2
+plated
+1\Painkiller1\Painkiller2
+planets
+1\Painkiller1\Painkiller2
+plains
+2\Run to the Hills2
+placid
+2\Dead Skin Mask2
+pissing
+2\Repentless2
+meetings
+2\The Threat Is Real2
+phobia
+2\Fear Of The Dark (1998 Digital Remaster)2
+petrifies
+2\Firepower2
+perverse
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+rapture
+1\Painkiller1\Painkiller2
+rationale
+2\Dead Skin Mask2
+pass
+1\War Is My Sheppard1\They Will Return2
+part
+1\Holy Wars...The Punishment Due1\Piece By Piece2
+pageants
+2\Dead Skin Mask2
+pacify
+1\Paranoid1\Paranoid2
+pacifies
+2\Dead Skin Mask2
+outta
+2\Back In Black2
+red
+1\Raining Blood1\Piece By Piece2
+osbourne
+1\Paranoid1\Crazy Train2
+infamous
+2\Angel Of Death2
+laced
+2\War Ensemble2
+knew
+2\Thunderstruck2
+kiss
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+justified
+2\The Threat Is Real2
+joke
+1\Paranoid1\Paranoid2
+screaming
+1\Crazy Train1\Angel Of Death2
+sea
+1\Run to the Hills1\Holy Wars...The Punishment Due2
+search
+2\South Of Heaven2
+island
+2\Medusa2
+seas
+1\Wasted Years1\Angel Of Death2
+iron
+1\Trooper1\Fear Of The Dark (1998 Digital Remaster)2
+seem
+2\Skeletons Of Society2
+insides
+2\Cold2
+insanity
+1\Postmortem1\Repentless2
+saviour
+1\Painkiller1\Painkiller2
+shakin
+2\Thunderstruck2
+images
+1\The Threat Is Real1\Dead Skin Mask2
+hurt
+1\Peace Sells1\Skin O' My Teeth (Remastered)2
+hunger
+2\Give Me Liberty... Or Give Me Death2
+humanity
+1\Skeletons Of Society1\Blinded By Fear2
+horse
+2\Trooper2
+horror
+1\Fear Of The Dark (1998 Digital Remaster)1\Raining Blood2
+hope
+1\South Of Heaven1\Walk with Me In Hell2
+hooked
+2\Hooked2
+showing
+1\Give Me Liberty... Or Give Me Death1\Postmortem2
+holds
+2\Postmortem2
+sigh
+1\Paranoid1\Paranoid2
+sight
+1\Firepower1\Back In Black2
+lock
+1\The Four Horsemen1\Firepower2
+meet
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+means
+2\Dead Skin Mask2
+maybe
+1\Fear Of The Dark (1998 Digital Remaster)1\Crazy Train2
+match
+2\Repentless2
+mass
+2\The Threat Is Real2
+maiden
+1\Trooper1\Fear Of The Dark (1998 Digital Remaster)2
+mad
+1\Lightning Strike1\Seasons In The Abyss2
+machine
+1\Painkiller1\Painkiller2
+lungs
+1\Hooked1\Angry Again2
+louder
+1\Painkiller1\Painkiller2
+loss
+1\That we should see the light1\South Of Heaven2
+looks
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+looked
+1\Thunderstruck1\Ain't Talkin' 'Bout Love2
+russian
+2\Trooper2
+sights
+1\Trooper1\War Ensemble2
+loathe
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+listened
+2\Crazy Train2
+link
+2\The Threat Is Real2
+linger
+2\Skeletons Of Society2
+limbs
+1\Angel Of Death1\Piece By Piece2
+sadist
+1\Angel Of Death1\Seasons In The Abyss2
+leprosy
+2\The Threat Is Real2
+leave
+1\Dread And The Fugitive Mind1\Repentless2
+learn
+1\Crazy Train1\Madhouse2
+lazer
+1\Painkiller1\Painkiller2
+laugh
+1\Paranoid1\Paranoid2
+satisfy
+1\Paranoid1\Paranoid2
+savior
+1\War Is My Sheppard1\Walk with Me In Hell2
+ease
+1\Wasted Years1\Angry Again2
+business
+2\Give Me Liberty... Or Give Me Death2
+which
+2\Mirror Of Sins2
+elude
+2\Dead Skin Mask2
+ellefson
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+took
+1\Run to the Hills1\Sad But True2
+suns
+1\Painkiller1\Painkiller2
+egos
+2\Repentless2
+believe
+1\Give Me Liberty... Or Give Me Death1\Peace Sells2
+culture
+2\The Threat Is Real2
+edge
+1\Ain't Talkin' 'Bout Love1\Seasons In The Abyss2
+bell
+2\Lightning Strike2
+went
+1\Crazy Train1\Thunderstruck2
+became
+2\Skeletons Of Society2
+warm
+1\Enter Sandman1\Dead Skin Mask2
+tongue
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+survival
+2\War Ensemble2
+dammit
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+tomb
+1\Postmortem1\Seasons In The Abyss2
+tolling
+2\Lightning Strike2
+big
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+brush
+2\Dead Skin Mask2
+tolerance
+2\Repentless2
+darkest
+1\Master Of Puppets1\Fury Of The Storm2
+weakest
+2\The Threat Is Real2
+david
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+enjoy
+1\Paranoid1\Paranoid2
+everyday
+2\Repentless2
+everlasting
+2\Fury Of The Storm2
+eternity
+1\Medusa1\South Of Heaven2
+aww
+2\Back In Black2
+escape
+1\Seek & Destroy1\Medusa2
+creating
+1\Raining Blood1\Angel Of Death2
+band
+2\Back In Black2
+subside
+2\Medusa2
+creations
+2\Dead Skin Mask2
+barren
+2\Run to the Hills2
+creature
+2\Strike of the Beast2
+ensemble
+2\War Ensemble2
+ways
+1\Angel Of Death1\Slaughter Of The Soul2
+battlefield
+1\Trooper1\Fury Of The Storm2
+wife
+1\The Four Horsemen1\Holy Wars...The Punishment Due2
+butcher
+2\Angel Of Death2
+suck
+2\Medusa2
+sucking
+1\Master Of Puppets1\Cold2
+total
+2\War Ensemble2
+ends
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+endless
+2\Medusa2
+encaptured
+1\Painkiller1\Painkiller2
+wide
+1\Wasted Years1\Angel Of Death2
+emotion
+2\Piece By Piece2
+beatin
+1\Back In Black1\Thunderstruck2
+devastated
+1\Painkiller1\Painkiller2
+digging
+2\Hooked2
+texas
+2\Thunderstruck2
+bright
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+bodies
+1\Trooper1\Piece By Piece2
+wastes
+2\Run to the Hills2
+bolts
+1\Painkiller1\Painkiller2
+bomb
+1\Painkiller1\Painkiller2
+declines
+2\Dead Skin Mask2
+thin
+1\Hooked1\Dread And The Fugitive Mind2
+bottom
+1\Hooked1\Repentless2
+brains
+2\Seek & Destroy2
+branches
+2\Give Me Liberty... Or Give Me Death2
+tips
+2\Dead Skin Mask2
+destruction
+1\Master Of Puppets1\Skeletons Of Society2
+destroying
+1\Run to the Hills1\Angel Of Death2
+dedicated
+2\Master Of Puppets2
+destiny
+2\Piece By Piece2
+brave
+1\Painkiller1\Painkiller2
+depths
+1\Medusa1\Dead Skin Mask2
+deeds
+1\Sad But True1\Mirror Of Sins2
+break
+1\Trooper1\War Ensemble2
+til
+1\Angel Of Death1\Repentless2
+breathing
+1\Painkiller1\Painkiller2
+delight
+2\Mirror Of Sins2
+tight
+2\Enter Sandman2
+bleeding
+1\Lightning Strike1\Raining Blood2
+drink
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+dawning
+2\Fury Of The Storm2
+drill
+2\War Ensemble2
+blade
+1\The Four Horsemen1\War Ensemble2
+dread
+2\Dread And The Fugitive Mind2
+draws
+1\Raining Blood1\Postmortem2
+swords
+1\The Four Horsemen1\Medusa2
+blasting
+1\Painkiller1\Painkiller2
+syu
+2\WINGS OF JUSTICE2
+warn
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+today
+2\Give Me Liberty... Or Give Me Death2
+brother
+2\Holy Wars...The Punishment Due2
+backroom
+2\The Threat Is Real2
+takes
+1\Sad But True1\Angry Again2
+doom
+2\Medusa2
+broken
+1\Lightning Strike1\Skin O' My Teeth (Remastered)2
+done
+1\War Is My Sheppard1\Mirror Of Sins2
+brighter
+1\Painkiller1\Painkiller2
+doin
+2\Thunderstruck2
+distant
+2\Fury Of The Storm2
+dismembered
+2\Piece By Piece2
+disgrace
+1\Lightning Strike1\Holy Wars...The Punishment Due2
+watching
+2\Fear Of The Dark (1998 Digital Remaster)2
+terrifying
+1\Painkiller1\Painkiller2
+tired
+2\Slaughter Of The Soul2
+apologies
+2\Repentless2
+fought
+2\Run to the Hills2
+worth
+1\Master Of Puppets1\Angel Of Death2
+change
+1\Fear Of The Dark (1998 Digital Remaster)1\Holy Wars...The Punishment Due2
+chance
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+anarchy
+1\Skeletons Of Society1\Repentless2
+anger
+1\Painkiller1\Painkiller2
+twisted
+1\Lightning Strike1\War Ensemble2
+spilling
+1\Holy Wars...The Punishment Due1\Fury Of The Storm2
+chains
+2\Blinded By Fear2
+answer
+1\Painkiller1\Painkiller2
+anymore
+2\The Threat Is Real2
+victims
+1\Angel Of Death1\South Of Heaven2
+anything
+2\Repentless2
+south
+2\South Of Heaven2
+consequences
+2\Dread And The Fugitive Mind2
+women
+2\Run to the Hills2
+woman
+1\Paranoid1\Paranoid2
+flowing
+1\Skin O' My Teeth (Remastered)1\War Ensemble2
+arm
+2\Hooked2
+armageddon
+1\Painkiller1\Painkiller2
+finished
+1\Paranoid1\Paranoid2
+calls
+1\That we should see the light1\Skeletons Of Society2
+fingertips
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+finger
+2\Dead Skin Mask2
+armor
+1\The Four Horsemen1\Medusa2
+constant
+2\Fear Of The Dark (1998 Digital Remaster)2
+clock
+2\The Threat Is Real2
+chromium
+1\Painkiller1\Painkiller2
+ups
+2\The Threat Is Real2
+snow
+1\Enter Sandman1\Fury Of The Storm2
+soaring
+1\Painkiller1\Painkiller2
+city
+1\Wasted Years1\Seek & Destroy2
+upon
+1\Holy Wars...The Punishment Due1\Piece By Piece2
+abuse
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+clear
+1\Master Of Puppets1\Holy Wars...The Punishment Due2
+gave
+1\Run to the Hills1\Thunderstruck2
+solomon
+1\Postmortem1\Repentless2
+games
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1\Tornado Of Souls2
+vanity
+2\Repentless2
+state
+1\Paranoid1\Paranoid2
+choking
+2\Give Me Liberty... Or Give Me Death2
+choice
+2\Piece By Piece2
+act
+2\The Threat Is Real2
+fugitive
+2\Dread And The Fugitive Mind2
+frowning
+1\Paranoid1\Paranoid2
+clouds
+1\Painkiller1\Painkiller2
+unreal
+1\Paranoid1\Paranoid2
+unknown
+1\Fear Of The Dark (1998 Digital Remaster)1\Fury Of The Storm2
+veins
+1\Master Of Puppets1\War Ensemble2
+vengeance
+1\Painkiller1\Painkiller2
+venture
+2\Medusa2
+alright
+2\Thunderstruck2
+faces
+2\Dead Skin Mask2
+fathers
+1\Give Me Liberty... Or Give Me Death1\South Of Heaven2
+trigger
+1\Trooper1\Firepower2
+fatal
+2\The Threat Is Real2
+tricks
+1\Fear Of The Dark (1998 Digital Remaster)1\Angry Again2
+astray
+2\Sad But True2
+fallen
+1\The Threat Is Real1\War Ensemble2
+fair
+1\Sad But True1\Crazy Train2
+fail
+1\Strike of the Beast1\Fury Of The Storm2
+corpse
+1\Postmortem1\Piece By Piece2
+vultures
+2\The Threat Is Real2
+stay
+2\Give Me Liberty... Or Give Me Death2
+atom
+1\Painkiller1\Painkiller2
+attack
+1\Trooper1\Run to the Hills2
+count
+2\Dread And The Fugitive Mind2
+carry
+1\Postmortem1\Fury Of The Storm2
+streets
+1\Skin O' My Teeth (Remastered)1\Ain't Talkin' 'Bout Love2
+striking
+2\Fury Of The Storm2
+cracks
+1\Holy Wars...The Punishment Due1\Angel Of Death2
+winds
+1\The Four Horsemen1\Skeletons Of Society2
+evils
+1\Painkiller1\Painkiller2
+track
+1\Back In Black1\Thunderstruck2
+troubles
+1\Fear Of The Dark (1998 Digital Remaster)1\Crazy Train2
+fell
+1\Lightning Strike1\Angel Of Death2
+feelings
+2\Peace Sells2
+fightoff
+2\Strike of the Beast2
+feed
+2\Slaughter Of The Soul2
+fed
+1\Hooked1\Slaughter Of The Soul2
+woh
+2\Fury Of The Storm2
+filled
+1\Angry Again1\Madhouse2
+aside
+2\Blinded By Fear2
+controlling
+1\Hooked1\The Threat Is Real1
+roar
+1\Trooper1
+waits
+1\Skeletons Of Society1
+regard
+1\Give Me Liberty... Or Give Me Death1
+warms
+1\That we should see the light1
+warriors
+1\The Four Horsemen1
+rhine
+1\War Ensemble1
+vanish
+1\Dread And The Fugitive Mind1
+rhoads
+1\Crazy Train1
+riden
+1\Paranoid1
+ripping
+1\Angry Again1
+riff
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1
+violence
+1\Repentless1
+wait
+1\They Will Return1
+rips
+1\Angry Again1
+versus
+1\They Will Return1
+wanting
+1\Postmortem1
+rhythm
+1\They Will Return1
+rich
+1\Skeletons Of Society1
+vision
+1\The Threat Is Real1
+warnings
+1\South Of Heaven1
+vessels
+1\Postmortem1
+voice
+1\Angry Again1
+ward
+1\Paranoid1
+walks
+1\Fear Of The Dark (1998 Digital Remaster)1
+void
+1\Walk with Me In Hell1
+rhyme
+1\Master Of Puppets1
+violent
+1\The Threat Is Real1
+rising
+1\Postmortem1
+very
+1\Medusa1
+risk
+1\Holy Wars...The Punishment Due1
+wage
+1\Holy Wars...The Punishment Due1
+raining
+1\Raining Blood1
+word
+1\Enter Sandman1
+wont
+1\Skin O' My Teeth (Remastered)1
+raced
+1\Thunderstruck1
+raging
+1\Fury Of The Storm1
+wohhhhhhhh
+1\Fury Of The Storm1
+raid
+1\War Ensemble1
+railroad
+1\Thunderstruck1
+woeful
+1\Strike of the Beast1
+witness
+1\Walk with Me In Hell1
+rain
+1\Skeletons Of Society1
+withered
+1\The Four Horsemen1
+quickly
+1\Walk with Me In Hell1
+witches
+1\Fear Of The Dark (1998 Digital Remaster)1
+raise
+1\The Four Horsemen1
+rally
+1\Firepower1
+rancid
+1\Angel Of Death1
+rap
+1\Back In Black1
+raping
+1\Run to the Hills1
+witchery
+1\Postmortem1
+witch
+1\Medusa1
+wise
+1\Skeletons Of Society1
+raving
+1\Angry Again1
+razors
+1\Seasons In The Abyss1
+yellow
+1\Hooked1
+liars
+1\Enter Sandman1
+provocative
+1\Dead Skin Mask1
+psychology
+1\War Ensemble1
+youtime
+1\Strike of the Beast1
+youths
+1\Angry Again1
+yourselves
+1\Angel Of Death1
+pulpit
+1\Holy Wars...The Punishment Due1
+pulverize
+1\Firepower1
+pump
+1\Master Of Puppets1
+youre
+1\Angry Again1
+pumped
+1\Angel Of Death1
+wins
+1\Trooper1
+purpose
+1\Walk with Me In Hell1
+pursued
+1\Dread And The Fugitive Mind1
+wrists
+1\Skin O' My Teeth (Remastered)1
+pushing
+1\Angel Of Death1
+puts
+1\Firepower1
+wreck
+1\Skin O' My Teeth (Remastered)1
+wrapped
+1\Skin O' My Teeth (Remastered)1
+quartet
+1\The Four Horsemen1
+worlds
+1\Blinded By Fear1
+quick
+1\Angry Again1
+quicken
+1\Fear Of The Dark (1998 Digital Remaster)1
+reload
+1\Firepower1
+torn
+1\The Four Horsemen1
+regime
+1\War Ensemble1
+wears
+1\Strike of the Beast1
+wearing
+1\Angry Again1
+weapons
+1\Firepower1
+wealth
+1\Dread And The Fugitive Mind1
+reign
+1\Raining Blood1
+reigns
+1\Skeletons Of Society1
+releasing
+1\Firepower1
+religion
+1\Holy Wars...The Punishment Due1
+relive
+1\Repentless1
+web
+1\War Ensemble1
+waves
+1\Postmortem1
+water
+1\Angel Of Death1
+wasting
+1\Run to the Hills1
+repeating
+1\Postmortem1
+repel
+1\Holy Wars...The Punishment Due1
+wastedon
+1\Strike of the Beast1
+report
+1\They Will Return1
+reprieve
+1\Walk with Me In Hell1
+wars
+1\Holy Wars...The Punishment Due1
+reserves
+1\War Ensemble1
+residuals
+1\Seasons In The Abyss1
+whoa
+1\Thunderstruck1
+reached
+1\Hooked1
+reaching
+1\Postmortem1
+winding
+1\Fury Of The Storm1
+read
+1\Angry Again1
+wind
+1\Mirror Of Sins1
+wincing
+1\Hooked1
+wilderness
+1\They Will Return1
+wild
+1\Back In Black1
+wield
+1\The Four Horsemen1
+reaper
+1\That we should see the light1
+rearranged
+1\Angry Again1
+resolve
+1\Walk with Me In Hell1
+whisky
+1\Run to the Hills1
+reasoned
+1\Sad But True1
+wet
+1\Skin O' My Teeth (Remastered)1
+recalls
+1\Mirror Of Sins1
+recurring
+1\Skeletons Of Society1
+west
+1\Skeletons Of Society1
+redskins
+1\Run to the Hills1
+reeling
+1\Lightning Strike1
+reflect
+1\Angry Again1
+welcome
+1\Walk with Me In Hell1
+stranger
+1\Wasted Years1
+strolling
+1\Fear Of The Dark (1998 Digital Remaster)1
+stroking
+1\They Will Return1
+shout
+1\Hooked1
+stripping
+1\Give Me Liberty... Or Give Me Death1
+showers
+1\Angel Of Death1
+stripped
+1\Angel Of Death1
+strategy
+1\War Ensemble1
+shut
+1\Enter Sandman1
+sickening
+1\Angel Of Death1
+siege
+1\War Ensemble1
+sifting
+1\Postmortem1
+strapped
+1\Angel Of Death1
+shield
+1\Medusa1
+strange
+1\Fear Of The Dark (1998 Digital Remaster)1
+straight
+1\That we should see the light1
+signs
+1\South Of Heaven1
+strafing
+1\War Ensemble1
+story
+1\Angry Again1
+stood
+1\Ain't Talkin' 'Bout Love1
+silence
+1\Skeletons Of Society1
+stimulation
+1\Seasons In The Abyss1
+stenchlaced
+1\Strike of the Beast1
+stem
+1\Lightning Strike1
+simulating
+1\Skeletons Of Society1
+sum
+1\Mirror Of Sins1
+seep
+1\Firepower1
+supremacy
+1\Skeletons Of Society1
+selling
+1\Run to the Hills1
+semi
+1\Ain't Talkin' 'Bout Love1
+send
+1\Piece By Piece1
+sensed
+1\Fear Of The Dark (1998 Digital Remaster)1
+sentence
+1\They Will Return1
+sermon
+1\War Is My Sheppard1
+serpents
+1\Medusa1
+settles
+1\They Will Return1
+seven
+1\Wasted Years1
+sewn
+1\Angel Of Death1
+steam
+1\Angry Again1
+suddenly
+1\Fear Of The Dark (1998 Digital Remaster)1
+shamed
+1\Sad But True1
+share
+1\Postmortem1
+shattered
+1\South Of Heaven1
+shaves
+1\War Ensemble1
+shed
+1\That we should see the light1
+such
+1\Madhouse1
+sheep
+1\Holy Wars...The Punishment Due1
+submission
+1\War Ensemble1
+shelter
+1\Sad But True1
+structure
+1\Raining Blood1
+songs
+1\Repentless1
+slayer
+1\Repentless1
+sleeping
+1\Skin O' My Teeth (Remastered)1
+source
+1\Master Of Puppets1
+sounds
+1\Trooper1
+slight
+1\Angry Again1
+soulwhen
+1\Strike of the Beast1
+slips
+1\Raining Blood1
+sorry
+1\Dread And The Fugitive Mind1
+slits
+1\Skin O' My Teeth (Remastered)1
+sores
+1\Blinded By Fear1
+sons
+1\South Of Heaven1
+slowly
+1\Skeletons Of Society1
+speak
+1\Give Me Liberty... Or Give Me Death1
+son
+1\Enter Sandman1
+somewhere
+1\South Of Heaven1
+smile
+1\Medusa1
+soldiers
+1\War Ensemble1
+soldier
+1\Run to the Hills1
+smiling
+1\Cold1
+solace
+1\Walk with Me In Hell1
+social
+1\Dread And The Fugitive Mind1
+soapbox
+1\Holy Wars...The Punishment Due1
+sneak
+1\Holy Wars...The Punishment Due1
+smooth
+1\Dead Skin Mask1
+spoon
+1\Hooked1
+sinew
+1\Angry Again1
+sinful
+1\Postmortem1
+sing
+1\War Ensemble1
+sings
+1\War Ensemble1
+statue
+1\Medusa1
+states
+1\Peace Sells1
+star
+1\Back In Black1
+standing
+1\Fury Of The Storm1
+stake
+1\Lightning Strike1
+stage
+1\Repentless1
+stab
+1\Run to the Hills1
+supreme
+1\War Ensemble1
+spoiled
+1\Mirror Of Sins1
+skull
+1\Angel Of Death1
+splatter
+1\Seasons In The Abyss1
+spirit
+1\They Will Return1
+spiraling
+1\Skeletons Of Society1
+spine
+1\Postmortem1
+spell
+1\Medusa1
+speech
+1\Give Me Liberty... Or Give Me Death1
+spearhead
+1\War Ensemble1
+slave
+1\Medusa1
+slay
+1\Holy Wars...The Punishment Due1
+sabbath
+1\South Of Heaven1
+treacherous
+1\Raining Blood1
+travlin
+1\Wasted Years1
+trash
+1\Skin O' My Teeth (Remastered)1
+trail
+1\Piece By Piece1
+town
+1\Thunderstruck1
+rushing
+1\Postmortem1
+tourniquet
+1\Postmortem1
+totman
+1\Fury Of The Storm1
+snakes
+1\Medusa1
+torment
+1\Lightning Strike1
+tore
+1\Thunderstruck1
+russians
+1\Trooper1
+tree
+1\Skin O' My Teeth (Remastered)1
+tony
+1\Firepower1
+tongues
+1\Cold1
+tombs
+1\Angel Of Death1
+toll
+1\The Four Horsemen1
+sack
+1\Back In Black1
+toldbreathing
+1\Strike of the Beast1
+toe
+1\Skin O' My Teeth (Remastered)1
+tissue
+1\Angry Again1
+tiskeletons
+1\Skeletons Of Society1
+tirepentless
+1\Repentless1
+saddle
+1\The Four Horsemen1
+twilight
+1\Skeletons Of Society1
+rode
+1\Thunderstruck1
+uphold
+1\Holy Wars...The Punishment Due1
+unsuspecting
+1\South Of Heaven1
+role
+1\Crazy Train1
+rolling
+1\Give Me Liberty... Or Give Me Death1
+unsaid
+1\Give Me Liberty... Or Give Me Death1
+united
+1\Peace Sells1
+unions
+1\Firepower1
+unforeseen
+1\South Of Heaven1
+root
+1\South Of Heaven1
+rope
+1\Hooked1
+tyranny
+1\Give Me Liberty... Or Give Me Death1
+tipostmortem
+1\Postmortem1
+twice
+1\The Four Horsemen1
+turnin
+1\Thunderstruck1
+turned
+1\Fear Of The Dark (1998 Digital Remaster)1
+rounds
+1\Trooper1
+rubber
+1\Angry Again1
+trooper
+1\Trooper1
+triumph
+1\War Ensemble1
+ruled
+1\Skeletons Of Society1
+trickles
+1\Postmortem1
+tribes
+1\Run to the Hills1
+runit
+1\Strike of the Beast1
+sweats
+1\Trooper1
+scholar
+1\Holy Wars...The Punishment Due1
+tag
+1\Skin O' My Teeth (Remastered)1
+scorched
+1\War Ensemble1
+scored
+1\War Ensemble1
+scores
+1\The Four Horsemen1
+system
+1\Peace Sells1
+swoops
+1\Strike of the Beast1
+sealed
+1\War Is My Sheppard1
+sweet
+1\Blinded By Fear1
+sweaty
+1\Angry Again1
+searing
+1\Angry Again1
+sweatsomeone
+1\Strike of the Beast1
+tame
+1\Run to the Hills1
+sweat
+1\The Four Horsemen1
+season
+1\Master Of Puppets1
+seat
+1\Holy Wars...The Punishment Due1
+second
+1\South Of Heaven1
+seduced
+1\That we should see the light1
+seducing
+1\Medusa1
+sustained
+1\South Of Heaven1
+seeking
+1\Postmortem1
+surprise
+1\They Will Return1
+surgery
+1\Angel Of Death1
+surgeon
+1\Angel Of Death1
+thinking
+1\Holy Wars...The Punishment Due1
+tighten
+1\Postmortem1
+safely
+1\The Four Horsemen1
+tied
+1\Hooked1
+safety
+1\Piece By Piece1
+thrown
+1\Hooked1
+throw
+1\Wasted Years1
+throatdulls
+1\Strike of the Beast1
+sand
+1\Enter Sandman1
+thrives
+1\Firepower1
+sandman
+1\Enter Sandman1
+thou
+1\Holy Wars...The Punishment Due1
+rocks
+1\Holy Wars...The Punishment Due1
+save
+1\Postmortem1
+thenever
+1\South Of Heaven1
+themselves
+1\Slaughter Of The Soul1
+thats
+1\Skin O' My Teeth (Remastered)1
+says
+1\Madhouse1
+scanning
+1\Seek & Destroy1
+scapegoat
+1\Sad But True1
+test
+1\Angel Of Death1
+scared
+1\Fear Of The Dark (1998 Digital Remaster)1
+terminal
+1\The Threat Is Real1
+target
+1\Firepower1
+demanding
+1\Seasons In The Abyss1
+didn
+1\Peace Sells1
+deviate
+1\That we should see the light1
+develop
+1\Slaughter Of The Soul1
+destroyed
+1\Mirror Of Sins1
+desecrated
+1\Seasons In The Abyss1
+descend
+1\War Ensemble1
+depression
+1\Postmortem1
+demolition
+1\War Is My Sheppard1
+democracy
+1\Give Me Liberty... Or Give Me Death1
+dieand
+1\Strike of the Beast1
+deluge
+1\Skin O' My Teeth (Remastered)1
+delicate
+1\Dead Skin Mask1
+deity
+1\South Of Heaven1
+defence
+1\They Will Return1
+defeated
+1\Firepower1
+defeat
+1\War Ensemble1
+decorated
+1\Seasons In The Abyss1
+decimating
+1\Lightning Strike1
+deceased
+1\Firepower1
+disguise
+1\Skeletons Of Society1
+donning
+1\Skin O' My Teeth (Remastered)1
+domineering
+1\South Of Heaven1
+doesnt
+1\Skin O' My Teeth (Remastered)1
+doesn
+1\War Ensemble1
+doers
+1\The Four Horsemen1
+divided
+1\Holy Wars...The Punishment Due1
+dissolve
+1\Walk with Me In Hell1
+dissipates
+1\Angry Again1
+disguisehis
+1\Strike of the Beast1
+decaythe
+1\Strike of the Beast1
+disarray
+1\Repentless1
+dirty
+1\Sad But True1
+dime
+1\Hooked1
+dignity
+1\South Of Heaven1
+dieyou
+1\Strike of the Beast1
+diethey
+1\Holy Wars...The Punishment Due1
+diethe
+1\Strike of the Beast1
+dies
+1\Walk with Me In Hell1
+create
+1\Slaughter Of The Soul1
+crowded
+1\Angel Of Death1
+crosswalk
+1\Skin O' My Teeth (Remastered)1
+cross
+1\Holy Wars...The Punishment Due1
+crimson
+1\Raining Blood1
+crimes
+1\War Ensemble1
+cries
+1\Master Of Puppets1
+crest
+1\The Threat Is Real1
+creed
+1\Run to the Hills1
+cree
+1\Run to the Hills1
+crumbling
+1\Master Of Puppets1
+crawl
+1\Fear Of The Dark (1998 Digital Remaster)1
+cranes
+1\Skin O' My Teeth (Remastered)1
+crack
+1\The Four Horsemen1
+cowards
+1\Run to the Hills1
+covered
+1\Blinded By Fear1
+court
+1\Peace Sells1
+country
+1\Holy Wars...The Punishment Due1
+corrosion
+1\Skeletons Of Society1
+corpses
+1\War Ensemble1
+danger
+1\Firepower1
+decays
+1\Skeletons Of Society1
+decay
+1\Angel Of Death1
+decapitated
+1\Piece By Piece1
+debris
+1\Postmortem1
+debating
+1\Fear Of The Dark (1998 Digital Remaster)1
+dealing
+1\Repentless1
+deafening
+1\Skeletons Of Society1
+daylight
+1\Skeletons Of Society1
+daughters
+1\South Of Heaven1
+dont
+1\Skin O' My Teeth (Remastered)1
+dancing
+1\Fear Of The Dark (1998 Digital Remaster)1
+dancers
+1\Thunderstruck1
+damnation
+1\South Of Heaven1
+daisley
+1\Crazy Train1
+cunting
+1\South Of Heaven1
+cums
+1\Hooked1
+cryyou
+1\Strike of the Beast1
+crystal
+1\Holy Wars...The Punishment Due1
+exiled
+1\Blinded By Fear1
+farewell
+1\War Is My Sheppard1
+fantasy
+1\Dead Skin Mask1
+famine
+1\The Four Horsemen1
+falls
+1\War Ensemble1
+fading
+1\Mirror Of Sins1
+facetime
+1\Strike of the Beast1
+extinction
+1\Postmortem1
+explode
+1\Firepower1
+existence
+1\Walk with Me In Hell1
+farrakhan
+1\War Is My Sheppard1
+exhilaration
+1\Seasons In The Abyss1
+execution
+1\Seasons In The Abyss1
+exchange
+1\Angry Again1
+exceptions
+1\Firepower1
+eviscerated
+1\Seasons In The Abyss1
+everyone
+1\Enter Sandman1
+eventual
+1\Skeletons Of Society1
+euphoria
+1\Cold1
+erlandsson
+1\Cold1
+films
+1\Fear Of The Dark (1998 Digital Remaster)1
+flightwings
+1\Strike of the Beast1
+flash
+1\Piece By Piece1
+flanked
+1\War Ensemble1
+flame
+1\That we should see the light1
+flack
+1\Back In Black1
+fix
+1\Fear Of The Dark (1998 Digital Remaster)1
+finish
+1\Skin O' My Teeth (Remastered)1
+finally
+1\Angry Again1
+filth
+1\Cold1
+erased
+1\Holy Wars...The Punishment Due1
+fights
+1\Angry Again1
+fiend
+1\War Ensemble1
+fields
+1\War Is My Sheppard1
+felt
+1\Fear Of The Dark (1998 Digital Remaster)1
+features
+1\Dead Skin Mask1
+feastblack
+1\Strike of the Beast1
+favor
+1\War Is My Sheppard1
+fatality
+1\Postmortem1
+drift
+1\Master Of Puppets1
+dumb
+1\Crazy Train1
+drums
+1\Thunderstruck1
+drug
+1\Hooked1
+dropouts
+1\Crazy Train1
+driving
+1\Crazy Train1
+drives
+1\Seek & Destroy1
+drips
+1\Angel Of Death1
+dripping
+1\Raining Blood1
+drifting
+1\Skeletons Of Society1
+dusk
+1\Firepower1
+dresser
+1\Skin O' My Teeth (Remastered)1
+drawn
+1\Firepower1
+drawer
+1\Skin O' My Teeth (Remastered)1
+draw
+1\Trooper1
+dragon
+1\Enter Sandman1
+dragged
+1\Hooked1
+downing
+1\Painkiller1
+dosomeone
+1\Strike of the Beast1
+elimination
+1\War Ensemble1
+era
+1\War Ensemble1
+entering
+1\Postmortem1
+enslaving
+1\Run to the Hills1
+engreat
+1\South Of Heaven1
+enemy
+1\The Threat Is Real1
+endure
+1\The Four Horsemen1
+encircle
+1\War Ensemble1
+employ
+1\Holy Wars...The Punishment Due1
+else
+1\Wasted Years1
+corner
+1\Fear Of The Dark (1998 Digital Remaster)1
+either
+1\Holy Wars...The Punishment Due1
+effects
+1\Lightning Strike1
+echoing
+1\Postmortem1
+echo
+1\Strike of the Beast1
+eats
+1\The Threat Is Real1
+easily
+1\Wasted Years1
+eager
+1\Hooked1
+dustclouds
+1\Run to the Hills1
+bear
+1\Crazy Train1
+behindbreathing
+1\Strike of the Beast1
+begin
+1\Angry Again1
+beggars
+1\Skeletons Of Society1
+beget
+1\South Of Heaven1
+becoming
+1\Master Of Puppets1
+become
+1\Crazy Train1
+beating
+1\Repentless1
+beastyou
+1\Strike of the Beast1
+beastif
+1\Strike of the Beast1
+being
+1\Dead Skin Mask1
+battles
+1\War Ensemble1
+battleand
+1\Strike of the Beast1
+bastard
+1\South Of Heaven1
+bang
+1\Holy Wars...The Punishment Due1
+backstreetsthe
+1\Strike of the Beast1
+awake
+1\Angel Of Death1
+awaits
+1\Medusa1
+await
+1\Postmortem1
+avidity
+1\South Of Heaven1
+bind
+1\Madhouse1
+boil
+1\Angel Of Death1
+blue
+1\Run to the Hills1
+bloody
+1\Seasons In The Abyss1
+blew
+1\Thunderstruck1
+blessed
+1\Firepower1
+blamed
+1\Sad But True1
+bitter
+1\Crazy Train1
+bite
+1\Enter Sandman1
+birth
+1\Postmortem1
+auschwitz
+1\Angel Of Death1
+bills
+1\Peace Sells1
+bill
+1\Give Me Liberty... Or Give Me Death1
+between
+1\Firepower1
+betrayed
+1\Raining Blood1
+bethe
+1\Strike of the Beast1
+benefit
+1\Angel Of Death1
+believers
+1\Walk with Me In Hell1
+beliefs
+1\Holy Wars...The Punishment Due1
+adulating
+1\Dead Skin Mask1
+america
+1\Peace Sells1
+alseasons
+1\Skeletons Of Society1
+alliance
+1\Holy Wars...The Punishment Due1
+alleternity
+1\South Of Heaven1
+alibis
+1\Sad But True1
+aim
+1\Firepower1
+ahhh
+1\Ain't Talkin' 'Bout Love1
+agency
+1\The Threat Is Real1
+afraid
+1\WINGS OF JUSTICE1
+ammunition
+1\War Is My Sheppard1
+acrid
+1\Trooper1
+acquisition
+1\Raining Blood1
+acid
+1\Skeletons Of Society1
+aching
+1\Hooked1
+achieve
+1\Angel Of Death1
+acceptance
+1\Hooked1
+abyss
+1\Skeletons Of Society1
+abstract
+1\Mirror Of Sins1
+abolish
+1\Raining Blood1
+arrives
+1\South Of Heaven1
+attrition
+1\War Ensemble1
+attempt
+1\Slaughter Of The Soul1
+attacks
+1\Holy Wars...The Punishment Due1
+atrocities
+1\Repentless1
+association
+1\Angry Again1
+ashes
+1\That we should see the light1
+aryan
+1\Angel Of Death1
+artillery
+1\War Is My Sheppard1
+arrogance
+1\Repentless1
+bombard
+1\War Ensemble1
+arms
+1\Firepower1
+aren
+1\Enter Sandman1
+approach
+1\Medusa1
+anxious
+1\Fear Of The Dark (1998 Digital Remaster)1
+anticipaton
+1\Seasons In The Abyss1
+animal
+1\They Will Return1
+anesthesia
+1\Angel Of Death1
+amplified
+1\Repentless1
+coats
+1\Madhouse1
+conceived
+1\Postmortem1
+comrades
+1\Trooper1
+comprehend
+1\War Is My Sheppard1
+compel
+1\Firepower1
+company
+1\The Four Horsemen1
+commence
+1\Postmortem1
+command
+1\Holy Wars...The Punishment Due1
+collusion
+1\Lightning Strike1
+coldglowing
+1\Strike of the Beast1
+condemned
+1\South Of Heaven1
+coast
+1\Wasted Years1
+clutter
+1\Skin O' My Teeth (Remastered)1
+closet
+1\Enter Sandman1
+cliff
+1\Master Of Puppets1
+clearer
+1\Master Of Puppets1
+cleansing
+1\Walk with Me In Hell1
+cleanse
+1\Angel Of Death1
+chronic
+1\The Threat Is Real1
+christianity
+1\War Is My Sheppard1
+constantly
+1\Skin O' My Teeth (Remastered)1
+cooking
+1\Ain't Talkin' 'Bout Love1
+convulsing
+1\Hooked1
+contusion
+1\Lightning Strike1
+controlled
+1\South Of Heaven1
+contrition
+1\Firepower1
+contortionist
+1\Angry Again1
+consumes
+1\That we should see the light1
+construction
+1\Master Of Puppets1
+constitution
+1\Give Me Liberty... Or Give Me Death1
+christ
+1\War Is My Sheppard1
+consistencies
+1\Slaughter Of The Soul1
+confusion
+1\Madhouse1
+confront
+1\Piece By Piece1
+conform
+1\South Of Heaven1
+confession
+1\The Four Horsemen1
+condo
+1\Angry Again1
+conditioning
+1\The Threat Is Real1
+conditioned
+1\Crazy Train1
+burnished
+1\The Threat Is Real1
+cardboard
+1\Angry Again1
+cancer
+1\The Threat Is Real1
+campaign
+1\War Ensemble1
+cadillac
+1\Back In Black1
+butthey
+1\They Will Return1
+butler
+1\Paranoid1
+bury
+1\Angel Of Death1
+burton
+1\Master Of Puppets1
+burst
+1\Trooper1
+casualty
+1\Postmortem1
+built
+1\Dread And The Fugitive Mind1
+bugle
+1\Trooper1
+brown
+1\Madhouse1
+brightens
+1\Seasons In The Abyss1
+bride
+1\Medusa1
+breakfast
+1\Master Of Puppets1
+brainyou
+1\Strike of the Beast1
+bound
+1\Firepower1
+center
+1\War Ensemble1
+chosen
+1\Fury Of The Storm1
+chop
+1\Master Of Puppets1
+choke
+1\Slaughter Of The Soul1
+chill
+1\Postmortem1
+chest
+1\Piece By Piece1
+charge
+1\Trooper1
+chanting
+1\Postmortem1
+chamber
+1\Firepower1
+certain
+1\Trooper1
+flock
+1\They Will Return1
+cells
+1\Angel Of Death1
+cell
+1\Hooked1
+caverns
+1\Fury Of The Storm1
+cave
+1\Medusa1
+caused
+1\The Threat Is Real1
+cattle
+1\Angel Of Death1
+catch
+1\Back In Black1
+cat
+1\Back In Black1
+mighty
+1\Trooper1
+mortals
+1\Fury Of The Storm1
+morgue
+1\Skin O' My Teeth (Remastered)1
+morbid
+1\Skeletons Of Society1
+moon
+1\Dead Skin Mask1
+monopoly
+1\Master Of Puppets1
+mistakes
+1\Holy Wars...The Punishment Due1
+mistakeno
+1\Holy Wars...The Punishment Due1
+mistakelast
+1\Holy Wars...The Punishment Due1
+mistake
+1\Holy Wars...The Punishment Due1
+mortifies
+1\Firepower1
+middle
+1\Thunderstruck1
+mice
+1\Angel Of Death1
+met
+1\Thunderstruck1
+messleaving
+1\Strike of the Beast1
+messenger
+1\Holy Wars...The Punishment Due1
+mess
+1\Ain't Talkin' 'Bout Love1
+mentally
+1\Crazy Train1
+members
+1\Dead Skin Mask1
+medication
+1\Madhouse1
+napalm
+1\War Is My Sheppard1
+news
+1\Ain't Talkin' 'Bout Love1
+neverending
+1\Master Of Puppets1
+neutralize
+1\Firepower1
+nestled
+1\South Of Heaven1
+neighbor
+1\Skin O' My Teeth (Remastered)1
+needlework
+1\Master Of Puppets1
+needle
+1\Cold1
+nature
+1\The Threat Is Real1
+natural
+1\Master Of Puppets1
+media
+1\Crazy Train1
+naive
+1\Holy Wars...The Punishment Due1
+myth
+1\Walk with Me In Hell1
+mutants
+1\Angel Of Death1
+musket
+1\Trooper1
+murder
+1\Run to the Hills1
+muahahahaha
+1\Madhouse1
+mothers
+1\South Of Heaven1
+mother
+1\War Is My Sheppard1
+laser
+1\Firepower1
+abacinate
+1\Angel Of Death1
+liar
+1\Walk with Me In Hell1
+lesson
+1\Madhouse1
+leading
+1\Master Of Puppets1
+leader
+1\Holy Wars...The Punishment Due1
+laws
+1\Angry Again1
+law
+1\Holy Wars...The Punishment Due1
+laughs
+1\Medusa1
+laughing
+1\Master Of Puppets1
+liberation
+1\Slaughter Of The Soul1
+larsson
+1\Cold1
+lamb
+1\Walk with Me In Hell1
+laid
+1\Angel Of Death1
+ladies
+1\Thunderstruck1
+lacerated
+1\Raining Blood1
+known
+1\That we should see the light1
+knocks
+1\The Four Horsemen1
+knife
+1\Angel Of Death1
+kirk
+1\Master Of Puppets1
+lying
+1\Wasted Years1
+measly
+1\Hooked1
+maximize
+1\Give Me Liberty... Or Give Me Death1
+matter
+1\Angel Of Death1
+mastermind
+1\They Will Return1
+marty
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1
+makin
+1\Back In Black1
+maker
+1\Piece By Piece1
+madness
+1\Skeletons Of Society1
+madly
+1\That we should see the light1
+nine
+1\Back In Black1
+luck
+1\Back In Black1
+lot
+1\Ain't Talkin' 'Bout Love1
+losing
+1\Postmortem1
+loose
+1\Back In Black1
+locked
+1\Hooked1
+livin
+1\Back In Black1
+lived
+1\South Of Heaven1
+limit
+1\Thunderstruck1
+pierce
+1\Angel Of Death1
+podium
+1\Holy Wars...The Punishment Due1
+plunge
+1\Trooper1
+pleasant
+1\Dead Skin Mask1
+played
+1\Thunderstruck1
+play
+1\Master Of Puppets1
+planned
+1\The Four Horsemen1
+plan
+1\Holy Wars...The Punishment Due1
+pills
+1\Skin O' My Teeth (Remastered)1
+pierced
+1\Raining Blood1
+policy
+1\War Ensemble1
+physical
+1\Seasons In The Abyss1
+pestilence
+1\The Four Horsemen1
+perspective
+1\The Threat Is Real1
+person
+1\Crazy Train1
+perpetuated
+1\Seasons In The Abyss1
+perpetual
+1\Skeletons Of Society1
+permeate
+1\That we should see the light1
+perishment
+1\Postmortem1
+pendulum
+1\War Ensemble1
+prey
+1\Medusa1
+protect
+1\Dread And The Fugitive Mind1
+prophetic
+1\War Ensemble1
+prophet
+1\Skeletons Of Society1
+promised
+1\Master Of Puppets1
+promiscuous
+1\South Of Heaven1
+probably
+1\Crazy Train1
+private
+1\They Will Return1
+prick
+1\Hooked1
+preyall
+1\Strike of the Beast1
+peeling
+1\Lightning Strike1
+pressure
+1\Angel Of Death1
+president
+1\Peace Sells1
+prepares
+1\Strike of the Beast1
+prepare
+1\Strike of the Beast1
+preachers
+1\Crazy Train1
+praying
+1\Angel Of Death1
+praise
+1\War Is My Sheppard1
+pounding
+1\Postmortem1
+numbered
+1\Master Of Puppets1
+order
+1\Slaughter Of The Soul1
+oppressed
+1\Postmortem1
+oou
+1\Master Of Puppets1
+onwards
+1\Fury Of The Storm1
+ones
+1\Fury Of The Storm1
+once
+1\The Four Horsemen1
+observance
+1\South Of Heaven1
+object
+1\Raining Blood1
+numbers
+1\War Ensemble1
+organized
+1\Holy Wars...The Punishment Due1
+number
+1\Back In Black1
+numb
+1\Trooper1
+noose
+1\Back In Black1
+noon
+1\Strike of the Beast1
+none
+1\They Will Return1
+non
+1\Postmortem1
+nobody
+1\Back In Black1
+noblest
+1\Angel Of Death1
+padded
+1\Hooked1
+pawn
+1\Skeletons Of Society1
+patterns
+1\Slaughter Of The Soul1
+pathetic
+1\Angel Of Death1
+path
+1\Fury Of The Storm1
+passion
+1\Master Of Puppets1
+parting
+1\Trooper1
+park
+1\Fear Of The Dark (1998 Digital Remaster)1
+paradise
+1\Skeletons Of Society1
+paid
+1\Holy Wars...The Punishment Due1
+key
+1\Postmortem1
+pack
+1\Back In Black1
+pace
+1\Fear Of The Dark (1998 Digital Remaster)1
+overdose
+1\Holy Wars...The Punishment Due1
+overcome
+1\Angry Again1
+outstretched
+1\Strike of the Beast1
+outlines
+1\Seasons In The Abyss1
+ourselves
+1\Repentless1
+others
+1\The Four Horsemen1
+giving
+1\Seek & Destroy1
+granite
+1\Holy Wars...The Punishment Due1
+grain
+1\Enter Sandman1
+graham
+1\War Is My Sheppard1
+governed
+1\Angry Again1
+goodbye
+1\Seek & Destroy1
+goin
+1\Back In Black1
+glimpse
+1\Walk with Me In Hell1
+glare
+1\Postmortem1
+glad
+1\Back In Black1
+grass
+1\They Will Return1
+girls
+1\Thunderstruck1
+girl
+1\WINGS OF JUSTICE1
+giants
+1\Holy Wars...The Punishment Due1
+gettin
+1\Back In Black1
+gets
+1\Trooper1
+gazing
+1\Trooper1
+gavel
+1\Holy Wars...The Punishment Due1
+gather
+1\The Four Horsemen1
+gates
+1\Slaughter Of The Soul1
+hammer
+1\The Four Horsemen1
+heads
+1\Angel Of Death1
+haunt
+1\Madhouse1
+hatred
+1\Repentless1
+hated
+1\Postmortem1
+harris
+1\Run to the Hills1
+harmless
+1\Angel Of Death1
+harboring
+1\Skeletons Of Society1
+hangin
+1\Back In Black1
+hang
+1\Back In Black1
+gasping
+1\Hooked1
+gutter
+1\Skin O' My Teeth (Remastered)1
+guts
+1\The Four Horsemen1
+guitar
+1\Repentless1
+guess
+1\Skeletons Of Society1
+growing
+1\Fury Of The Storm1
+groan
+1\Trooper1
+greatest
+1\Angry Again1
+gravitys
+1\Angry Again1
+foolish
+1\Holy Wars...The Punishment Due1
+forward
+1\War Ensemble1
+formed
+1\Lightning Strike1
+forgiveness
+1\Firepower1
+forged
+1\Firepower1
+forevermore
+1\Strike of the Beast1
+foresee
+1\Skeletons Of Society1
+foreign
+1\Holy Wars...The Punishment Due1
+forced
+1\Angel Of Death1
+footsteps
+1\Fear Of The Dark (1998 Digital Remaster)1
+found
+1\Piece By Piece1
+folklore
+1\Fear Of The Dark (1998 Digital Remaster)1
+folds
+1\Angry Again1
+foes
+1\Crazy Train1
+foe
+1\Firepower1
+flurries
+1\Skeletons Of Society1
+fluid
+1\Angel Of Death1
+flows
+1\Skin O' My Teeth (Remastered)1
+flood
+1\Walk with Me In Hell1
+frigid
+1\Angel Of Death1
+gap
+1\Piece By Piece1
+gang
+1\Back In Black1
+galloping
+1\Run to the Hills1
+gain
+1\Skeletons Of Society1
+funny
+1\Wasted Years1
+funeral
+1\Postmortem1
+fun
+1\Thunderstruck1
+fulfilled
+1\Seek & Destroy1
+front
+1\War Ensemble1
+hearse
+1\Back In Black1
+friends
+1\Ain't Talkin' 'Bout Love1
+friedman
+1\Tornado Of Souls (Rust In Peace - 20th Anniversary - CD)1
+freaking
+1\Lightning Strike1
+fragrance
+1\Dead Skin Mask1
+fracture
+1\Angry Again1
+fowl
+1\Strike of the Beast1
+fourth
+1\The Four Horsemen1
+founding
+1\Give Me Liberty... Or Give Me Death1
+inheriting
+1\Crazy Train1
+intensely
+1\Angel Of Death1
+insubordinate
+1\Angry Again1
+instinct
+1\They Will Return1
+inspect
+1\Angry Again1
+insaneyou
+1\Strike of the Beast1
+insame
+1\Paranoid1
+innate
+1\Seasons In The Abyss1
+injecting
+1\Angel Of Death1
+inhuman
+1\Lightning Strike1
+intensity
+1\Repentless1
+infiltration
+1\War Ensemble1
+inferior
+1\Angel Of Death1
+infect
+1\Dread And The Fugitive Mind1
+inevitably
+1\Angry Again1
+inert
+1\Seasons In The Abyss1
+indication
+1\War Ensemble1
+indians
+1\Run to the Hills1
+independence
+1\Give Me Liberty... Or Give Me Death1
+include
+1\Enter Sandman1
+jaw
+1\Angry Again1
+kept
+1\Back In Black1
+keeps
+1\Repentless1
+jury
+1\Skeletons Of Society1
+junk
+1\Hooked1
+judicial
+1\Holy Wars...The Punishment Due1
+judge
+1\Skeletons Of Society1
+joining
+1\Angel Of Death1
+join
+1\Skeletons Of Society1
+johnson
+1\Back In Black1
+incisions
+1\Seasons In The Abyss1
+jars
+1\Skin O' My Teeth (Remastered)1
+israel
+1\Holy Wars...The Punishment Due1
+isn
+1\Wasted Years1
+irrational
+1\Angry Again1
+iommi
+1\Paranoid1
+introduce
+1\Dread And The Fugitive Mind1
+intervals
+1\Seasons In The Abyss1
+intent
+1\Lightning Strike1
+highway
+1\Thunderstruck1
+hoovesstart
+1\Strike of the Beast1
+hooves
+1\The Four Horsemen1
+homelands
+1\Holy Wars...The Punishment Due1
+holy
+1\Holy Wars...The Punishment Due1
+holocaust
+1\Angel Of Death1
+holier
+1\Holy Wars...The Punishment Due1
+holes
+1\Run to the Hills1
+hocking
+1\Hooked1
+highyou
+1\Strike of the Beast1
+hopes
+1\Holy Wars...The Punishment Due1
+highernow
+1\Strike of the Beast1
+hesitate
+1\WINGS OF JUSTICE1
+hellfires
+1\Fury Of The Storm1
+held
+1\Postmortem1
+heirs
+1\Crazy Train1
+heavy
+1\Enter Sandman1
+heat
+1\Angel Of Death1
+hearts
+1\Cold1
+hush
+1\Enter Sandman1
+incised
+1\Dead Skin Mask1
+incestuous
+1\South Of Heaven1
+impossibilities
+1\Angry Again1
+immoral
+1\South Of Heaven1
+immense
+1\Angel Of Death1
+image
+1\Skeletons Of Society1
+illusions
+1\Slaughter Of The Soul1
+illusion
+1\Lightning Strike1
+ice
+1\Fury Of The Storm1
+proving
+1\Hooked1
+hurdle
+1\Trooper1
+hunting
+1\Run to the Hills1
+hundred
+1\Angel Of Death1
+huh
+1\Peace Sells1
+howlit
+1\Strike of the Beast1
+hosed
+1\Angry Again1
+horses
+1\Trooper1
+horrid
+1\Strike of the Beast

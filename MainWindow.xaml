@@ -1,0 +1,309 @@
+﻿<Window x:Class="neteas_cloud_music_analyze.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:neteas_cloud_music_analyze"
+        xmlns:locall="clr-namespace:neteas_cloud_music_analyze.SmoothScroll"
+        mc:Ignorable="d"
+        Title="Netease-cloud-music Analyze" Height="710" Width="1000"
+        
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="#efe5fd"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        >
+    <Border Padding="8" >
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 控制面板 -->
+            <StackPanel Orientation="Vertical">
+
+                <StackPanel Grid.Column="0" Margin="0 0 10 0" >
+
+                    <!-- Top Three Button -->
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <Button Grid.Column="0" x:Name="ApplyButton" Click="ApplyButton_Click" Content="Apply" Margin="5 0 5 0"/>
+                        <Button Grid.Column="1" x:Name="ResetButton" Click="ResetButton_Click" Content="Reset" Margin="5 0 5 0" />
+                        <Button Grid.Column="2" x:Name="HelpButton" Click="HelpButton_Click"  Content="Help" Margin="5 0 5 0" />
+
+                    </Grid>
+
+
+                    <!-- Basic -->
+                    <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Text="Basic" FontWeight="Bold" Margin=" 0 10"/>
+
+                    <!-- URL -->
+                    <TextBlock Text="URL" />
+                    <TextBox Padding="2" x:Name="URLText"  />
+
+
+                    <!-- List id and Status -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="1" >
+                            <TextBlock  Text="List Id" />
+                            <TextBox x:Name="ListIdText" IsReadOnly="True" Background="#eee"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="0" Margin="0 0 10 0">
+                            <TextBlock Text="Status"/>
+                            <TextBox x:Name="StatusText" IsReadOnly="True" Background="#eee"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Button 打印统计信息 -->
+                    <Button Content="统计歌词信息" x:Name="CaculateButton" Click="CaculateButton_Click" Margin="0 15 0 0" />
+
+
+                    <!-- 显示词云 -->
+                    <TextBlock Text="Word Cloud" FontWeight="Bold" Margin="0 10"/>
+                    <CheckBox Name="UseOtherPictureCheck" Content="使用自定义背景" />
+                    <TextBlock Text="预置背景" Margin="0 5 0 0 "/>
+
+                    <!-- 预置图片选择 -->
+                    <ComboBox x:Name="ImageSelect" SelectionChanged="ComboxBox_SelectionChanged" SelectedIndex="0" Padding="2" >
+                        <ComboBoxItem Name="HeartShapeCombo">HeartShape</ComboBoxItem>
+                        <ComboBoxItem Name="PikaqiuCombo">Go</ComboBoxItem>
+                    </ComboBox>
+
+                    <!-- 自定义背景图片路径 -->
+                    <TextBlock Text="自定义背景路径" Margin="0 5 0 0 "/>
+                    <TextBox Name="PicturePathText"/>
+
+
+                    <!-- 显示歌词数, 字体最大值, 图片清晰度 -->
+                    <Grid Margin="0 5 0 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="0 0 5 0">
+                            <TextBlock Text="显示歌词数"/>
+                            <TextBox Name="WordNumText"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" Margin="0 0 5 0">
+                            <TextBlock Text="字体最大值"/>
+                            <TextBox Name="WordMaxSizeTsxt"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="2" Margin="0 0 5 0">
+                            <TextBlock Text="图片清晰度"/>
+                            <TextBox Name="PictureSacleText"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- 显示词云 -->
+                    <Button Content="显示词云" x:Name="PrintWCButton" Click="PrintWCButton_Click" Margin="0 10 0 0" />
+
+                    <!-- Look up -->
+                    <TextBlock Text="Look up" FontWeight="Bold" Margin="0 10"/>
+
+                    <!-- 查找词汇 -->
+                    <TextBlock Text="查找某词词频"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="0 0 10 0">
+                            <TextBlock Text="Word"/>
+                            <TextBox x:Name="TargetWordText" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1">
+                            <Button Content="查找" Click="SearchButton_Click" Margin="0 10"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- 丢弃词汇 -->
+                    <TextBlock Text="丢弃词汇"/>
+                    <TextBlock Text="Word"/>
+                    <TextBox Name="TrushWordText"/>
+
+                    <!-- 单词忽略 -->
+                    <Grid Margin="0 5 0 0 ">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button Grid.Column="0" Click="addIgnoreButton_Click"  Content="丢弃" Margin="0 0 5 0"/>
+                        <Button Grid.Column="1" Click="deleteIgnoreButton_Click" Content="移除丢弃" Margin="5 0 0 0 "/>
+                    </Grid>
+
+
+                </StackPanel>
+
+
+            </StackPanel>
+
+
+            <!-- Tab -->
+            <TabControl Grid.Column="1">
+                <!-- 统计信息 -->
+                <TabItem Header="歌词统计信息" Name="tebItem1">
+                    <Grid>
+                        <TextBlock Text="统计信息" FontWeight="Bold" Margin=" 0 10"/>
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="3*"/>
+                            </Grid.ColumnDefinitions>
+
+
+                            <Grid Grid.Column="0"  Margin="5 0 5 0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="158*"/>
+                                    <ColumnDefinition Width="125*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition Height="3*"/>
+                                </Grid.RowDefinitions>
+
+                                <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0,391" Grid.RowSpan="2">
+                                    <RichTextBox x:Name="TotalInfo" Margin="30" Background="Transparent" IsReadOnly="True" Focusable="False" Cursor="Arrow">
+
+                                    </RichTextBox>
+                                </StackPanel>
+
+                                <!-- 单词词频 -->
+                                <ListView x:Name="WordListView" Grid.Row="1" Padding="10" Grid.ColumnSpan="2"  >
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn x:Name="WordItem" Header="单词" Width="120" DisplayMemberBinding="{Binding word}"  />
+                                            <GridViewColumn x:Name="NumItem" Header="词频"  Width="120" DisplayMemberBinding="{Binding frequency}"/>
+
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+
+                            <!-- 曲目 -->
+                            <Grid Grid.Column="1"  Margin="5 0 5 5">
+
+                                <ListView x:Name="MusicListView" Grid.Row="1" Padding="10" >
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn Header="曲目" Width="300"  />
+
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+
+                        </Grid>
+
+                    </Grid>
+                </TabItem>
+
+
+                <!-- 词云显示 -->
+                <TabItem Header="词云显示" Name="tabItem2">
+                    <Grid>
+                        <Image Name="wordcloud" />
+                    </Grid>
+                </TabItem>
+
+                <!-- 查找结果 -->
+                <TabItem Header="查找结果" Name="tabItem3">
+                    <Grid>
+
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="3*"/>
+                            </Grid.ColumnDefinitions>
+
+
+                            <Grid Grid.Column="0"  Margin="5 0 5 0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition Height="3*"/>
+                                </Grid.RowDefinitions>
+
+                                <StackPanel Grid.Row="0">
+                                    <TextBlock Text="查找结果：" FontWeight="Bold"/>
+                                    <RichTextBox x:Name="SearchInfo" Margin="30" Background="Transparent" IsReadOnly="True" Focusable="False" Cursor="Arrow">
+
+                                    </RichTextBox>
+                                </StackPanel>
+
+                                <!-- 移去的词 -->
+                                <ListView  Grid.Row="1" Padding="10"  Name="TrashListView">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn x:Name="TrashItem" Header="移去的词" Width="120"  />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+
+                            <!-- 出现的曲目 -->
+                            <Grid Grid.Column="1"  Margin="5 0 5 5">
+
+
+                                <!-- 查找结果 -->
+
+                                <ListView x:Name="SearchListView" Grid.Row="1" Padding="10"  >
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridViewColumn x:Name="InSongs" Header="出现在以下曲目中" Width="300" DisplayMemberBinding="{Binding song}"  />
+                                            <GridViewColumn x:Name="Num" Header="词频"  Width="80" DisplayMemberBinding="{Binding num}"/>
+
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </Grid>
+
+                        </Grid>
+
+                    </Grid>
+                </TabItem>
+
+
+                <!-- 歌词 -->
+                <TabItem Header="歌词" Name="tebItem4">
+
+                    <Grid>
+                        <locall:SmoothScrollViewer x:Name="scrollviewer" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled"  ScrollChanged="scrollviewer_ScrollChanged">
+                            <RichTextBox x:Name="showInfo" Margin="30" Background="Transparent" IsReadOnly="True" Focusable="False" Cursor="Arrow">
+
+                            </RichTextBox>
+                        </locall:SmoothScrollViewer>
+                    </Grid>
+
+
+                </TabItem>
+            </TabControl>
+
+
+
+
+        </Grid>
+
+
+    </Border>
+</Window>
